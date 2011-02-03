@@ -10,6 +10,7 @@
 == RIGGING ==
  * [http://www.youtube.com/watch?v=sTDjqGQAMos tp8000cfv's Blender tutorial: Face rigging prt1 ]
  * [http://www.youtube.com/watch?v=tApdSx_4b0Q Tob's Blender 2.5 Foot Rigging Tutorial 1/10 Rig Overview]
+ * [http://www.youtube.com/watch?v=RX8H1Z87sRk Tob's Blender 2.5 Foot Rigging Tutorial 2/10 Armature and IK]
 == Animación ==
  * [http://www.youtube.com/watch?v=dqqOpLv5IWE Blender Tutorial: Walk and Run Cycle]
 == Render ==
