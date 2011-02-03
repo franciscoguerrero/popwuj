@@ -13,4 +13,5 @@
 == Animación ==
  * [http://www.youtube.com/watch?v=dqqOpLv5IWE Blender Tutorial: Walk and Run Cycle]
 == Render ==
- * [http://www.youtube.com/watch?v=mJWFRFystJU Blender Tutorial Series - Part 13 - UV Mapping]
+ * [http://www.youtube.com/watch?v=mJWFRFystJU Ira Krakow's Free Blender 3D Render Farm Tutorial]
+ * [http://www.youtube.com/watch?v=L8YL2qKe1R8 Blender Tutorial - Baking Ambient Occlusion ]
