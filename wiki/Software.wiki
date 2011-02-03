@@ -1,6 +1,5 @@
 #summary Lista de software utilizado para la producción.
 
-
 *Sistema Operativo:* [http://www.ubuntu.com Ubuntu] versión: 10.10
 
 *Paquete de Oficina:* [http://www.openoffice.org/ OpenOffice] versión: 3.2
