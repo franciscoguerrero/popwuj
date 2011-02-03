@@ -1,9 +1,25 @@
 #summary Project Information (English version)
-= Project =
 
-  * This is a 3D animated short film based on the Pop Wuj or Popol Vuh, the Sacred Book of the Mayas.
+=Project=
 
-= About this site =
+    * This is an animated short film based on the Pop Wuj, the Sacred Book of the Mayas.
+    * The script was approved and translated to Quiche Maya Language by the Indigenous Council of Education.
+    * The dialogues were recorded by maya actresses and actor at Santa Cruz del Quiché, Guatemala.
+    * The music was inspired by the Mayan Biosphere and recorded at [http://es.wikipedia.org/wiki/Tikal the Temples of Tikal].
+    * The animation is being developed in San José, Costa Rica.
+    * Watch the [http://vimeo.com/18160651 Teaser Video here].
 
-Add your content here.  Format your content with:
-  * This is a files and knowledge repository.
+==About this site==
+
+    * This site is a files, knowledge and tricks [http://es.wikipedia.org/wiki/Repositorio repository] on [http://es.wikipedia.org/wiki/Gr%C3%A1ficos_3D_por_computadora 3D] and [http://es.wikipedia.org/wiki/Efectos_especiales Special Effects].
+    * This is a documentation site for the author and for those who want to join the project.
+    * This is the technical log of the production process. For more general information about the short film please visit the [http://www.facebook.com/pages/POP-WUJ-Los-Dioses-Gemelos/110390738999842 Facebook Page] or the [http://popwuj2011.blogspot.com Production Blog (Spanish)].
+
+----
+
+==¿Querés participar en la producción?==
+ * Si te gusta el Diseño, la Animación, la Producción Audiovisual, mandá un email a *_francisco.guerrero.cr@gmail.com_*
+
+==¿Te gustaría recibir un DVD Edición Especial?==
+
+ * Gracias a la [http://es.wikipedia.org/wiki/Financiación_en_masa Financiación en masa], con un aporte económico podés ayudar a realizar este proyecto, y en cuanto esté listo, recibirás una Edición Especial del cortometraje. *No se te cobrará absolutamente nada hasta que el proyecto esté garantizado para distribución*. Para más información escribir a *_palantefilms@gmail.com_*
