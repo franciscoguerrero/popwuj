@@ -7,5 +7,7 @@
  * [http://www.youtube.com/watch?v=mn1ujPlJbJI Hair tutorial with Blender Particles and softbodies]
 == Texturas ==
  * [http://www.youtube.com/watch?v=e5_2seDBQrw Blender Tutorial Series - Part 13 - UV Mapping]
+== RIGGING ==
+ * [http://www.youtube.com/watch?v=sTDjqGQAMos tp8000cfv's Blender tutorial: Face rigging prt1 ]
 == Animación ==
  * [http://www.youtube.com/watch?v=dqqOpLv5IWE Blender Tutorial: Walk and Run Cycle]
