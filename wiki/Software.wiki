@@ -1,17 +1,17 @@
 #summary Lista de software utilizado para la producción.
 
-*Sistema Operativo:* [http://www.ubuntu.com Ubuntu] versión: 10.10
 
-*Paquete de Oficina:* [http://www.openoffice.org/ OpenOffice] versión: 3.2
+==Software Básico==
+ * *Sistema Operativo:* [http://www.ubuntu.com Ubuntu] versión: 10.10
+ * *Paquete de Oficina:* [http://www.openoffice.org/ OpenOffice] versión: 3.2
+ * *Administrador de Proyecto:* [http://live.gnome.org/Planner Planner] versión: 0.014
 
-*Administrador de Proyecto:* [http://live.gnome.org/Planner Planner] versión: 0.014
+==Gráficos==
 
-*Gráficos 2D:* [http://www.gimp.org/ Gimp] versión: 2.6
+ * *Gráficos 2D:* [http://www.gimp.org/ Gimp] versión: 2.6
+ * *Animación 2D:*
+ * *Animación 3D:* [http://www.blender3d.org/ Blender] versión: 2.49
+ * *Tipografías:* [http://openfontlibrary.org Open Font Library]
 
-*Animación 2D:*
-
-*Animación 3D:* [http://www.blender3d.org/ Blender] versión: 2.49
-
-*Sonido:* Linux Multimedia Studio
-
-*Tipografías:* [http://openfontlibrary.org Open Font Library]
+==Audio==
+ * *Sonido:* Linux Multimedia Studio
