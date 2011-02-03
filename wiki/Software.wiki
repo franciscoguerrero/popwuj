@@ -9,7 +9,7 @@
 ==Gráficos==
 
  * *Gráficos 2D:* [http://www.gimp.org/ Gimp] versión: 2.6
- * *Animación 2D:*
+ * *Animación 2D:* KToon
  * *Animación 3D:* [http://www.blender3d.org/ Blender] versión: 2.49
  * *Tipografías:* [http://openfontlibrary.org Open Font Library]
 
