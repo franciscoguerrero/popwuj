@@ -5,4 +5,6 @@
 
 *Sistema Operativo:* [http://www.ubuntu.com Ubuntu]
 
-*Paquete de Oficina:* OpenOffice
+*Paquete de Oficina:* [http://www.openoffice.org/ OpenOffice]
+
+*Administrador de Proyecto:* [http://live.gnome.org/Planner Planner]
