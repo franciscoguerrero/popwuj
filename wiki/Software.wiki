@@ -11,8 +11,8 @@
 
 *Animación 2D:*
 
-*Animación 3D:* Blender
+*Animación 3D:* [http://www.blender3d.org/ Blender]
 
-*Sonido:*
+*Sonido:* Linux Multimedia Studio
 
 *Tipografías:* [http://openfontlibrary.org Open Font Library]
