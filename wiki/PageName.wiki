@@ -1,9 +1,0 @@
-#summary Project Information (English version)
-= Project =
-
-  * This is a 3D animated short film based on the Pop Wuj or Popol Vuh, the Sacred Book of the Mayas.
-
-= About this site =
-
-Add your content here.  Format your content with:
-  * This is a files and knowledge repository.
