@@ -1,4 +1,4 @@
-#summary Links a tutoriales en Internet
+#summary Enlaces a tutoriales en Internet
 
 = Blender 3D =
 
