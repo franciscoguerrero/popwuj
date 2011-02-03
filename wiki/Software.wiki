@@ -8,6 +8,11 @@
 *Paquete de Oficina:* [http://www.openoffice.org/ OpenOffice]
 
 *Administrador de Proyecto:* [http://live.gnome.org/Planner Planner]
-Animación 3D: Blender
-Sonido:
-Tipografías: [http://openfontlibrary.org Open Font Library]
+
+*Animación 2D:*
+
+*Animación 3D:* Blender
+
+*Sonido:*
+
+*Tipografías:* [http://openfontlibrary.org Open Font Library]
