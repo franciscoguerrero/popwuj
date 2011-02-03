@@ -9,6 +9,8 @@
 
 *Administrador de Proyecto:* [http://live.gnome.org/Planner Planner] versión: 0.014
 
+*Gráficos 2D:* [http://www.gimp.org/ Gimp] *versión:* 2.6
+
 *Animación 2D:*
 
 *Animación 3D:* [http://www.blender3d.org/ Blender] versión: 2.49
