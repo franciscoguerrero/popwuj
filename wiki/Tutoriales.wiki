@@ -3,12 +3,5 @@
 = Blender 3D =
 
 == Modelado ==
- * http://www.youtube.com/watch?v=JAGH-SuD9Qw
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ * [http://www.youtube.com/watch?v=JAGH-SuD9Qw Blender Tutorial: Sculpted Hair Mesh]
+ * [http://www.youtube.com/watch?v=e5_2seDBQrw Blender Tutorial Series - Part 13 - UV Mapping]
