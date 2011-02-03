@@ -1,12 +1,7 @@
-#summary lista de software utilizado para la producción.
+#summary Lista de software utilizado para la producción.
 
 
 = Software =
-
-Esta es la lista de software que voy utilizando para la producción del cortometraje.
-
-
-= Detalles =
 
 *Sistema Operativo:* [http://www.ubuntu.com Ubuntu]
 
