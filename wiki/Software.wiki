@@ -3,15 +3,15 @@
 
 = Software =
 
-*Sistema Operativo:* [http://www.ubuntu.com Ubuntu]
+*Sistema Operativo:* [http://www.ubuntu.com Ubuntu] versión: 10.10
 
-*Paquete de Oficina:* [http://www.openoffice.org/ OpenOffice]
+*Paquete de Oficina:* [http://www.openoffice.org/ OpenOffice] versión: 3.2
 
-*Administrador de Proyecto:* [http://live.gnome.org/Planner Planner]
+*Administrador de Proyecto:* [http://live.gnome.org/Planner Planner] versión: 0.014
 
 *Animación 2D:*
 
-*Animación 3D:* [http://www.blender3d.org/ Blender]
+*Animación 3D:* [http://www.blender3d.org/ Blender] versión: 2.49
 
 *Sonido:* Linux Multimedia Studio
 
