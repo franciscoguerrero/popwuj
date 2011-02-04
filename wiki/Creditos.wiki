@@ -1,9 +1,29 @@
 #summary Lista de personas e instituciones que han estado involucradas en este proyecto.
 
-==Concepto, Guión, Dirección y Producción==
+===Concepto, Guión, Dirección y Producción===
  * Francisco Guerrero
 
-===Producción==
+===Producción===
  * Francisco Guerrero
  * Andy Lieberman
  * Grettel Montero
+
+===Traducción===
+ * Matías Gutiérrez
+
+===Voces originales en Quiché===
+ * Marleny Tzicap
+ * Rosario Vicente
+ * Concepción Vicente
+ * Aura Marina Xicay
+ * Gricelda Lorenzo
+ * Jacinto Tunay
+ * Diego Guachiac
+ * Francisco Cabrera
+ * Domingo Camajá
+ * Miguel Ángel Tzoy
+ * Héctor Conóz
+ * Matías Gutiérrez
+
+===Animación===
+ * Francisco Guerrero
