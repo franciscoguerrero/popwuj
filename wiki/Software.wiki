@@ -2,16 +2,17 @@
 
 
 ==Software Básico==
- * *Sistema Operativo:* [http://www.ubuntu.com Ubuntu] versión: 10.10
- * *Paquete de Oficina:* [http://www.openoffice.org/ OpenOffice] versión: 3.2
- * *Administrador de Proyecto:* [http://live.gnome.org/Planner Planner] versión: 0.014
+ * *Sistema Operativo:* [http://www.ubuntu.com Ubuntu] 10.10
+ * *Paquete de Oficina:* [http://www.openoffice.org/ OpenOffice] 3.2
+ * *Administrador de Proyecto:* [http://live.gnome.org/Planner Planner] 0.014
 
 ==Gráficos==
 
- * *Gráficos 2D:* [http://www.gimp.org/ Gimp] versión: 2.6
+ * *Gráficos 2D:* [http://www.gimp.org/ Gimp] 2.6
  * *Animación 2D:* KToon
- * *Animación 3D:* [http://www.blender3d.org/ Blender] versión: 2.49
+ * *Animación 3D:* [http://www.blender3d.org/ Blender] 2.49
  * *Tipografías:* [http://openfontlibrary.org Open Font Library]
 
 ==Audio==
- * *Sonido:* Linux Multimedia Studio
+ * *Sonido:* Ardour 2.8.11
+ * *Efectos de Sonido:* [http://www.freesound.org/ The Free Sound Project]
