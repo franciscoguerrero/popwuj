@@ -8,7 +8,7 @@
 == Texturas ==
  * [http://www.youtube.com/watch?v=e5_2seDBQrw Blender Tutorial Series - Part 13 - UV Mapping]
 == Rigging ==
- * [http://www.youtube.com/watch?v=sTDjqGQAMos tp8000cfv's Blender tutorial: Face rigging prt1 ]
+ * [http://www.youtube.com/watch?v=sTDjqGQAMos Blender tutorial: Face rigging prt1 ]
  * [http://www.youtube.com/watch?v=tApdSx_4b0Q Tob's Blender 2.5 Foot Rigging Tutorial 1/10 Rig Overview]
  * [http://www.youtube.com/watch?v=RX8H1Z87sRk Tob's Blender 2.5 Foot Rigging Tutorial 2/10 Armature and IK]
 == Animación ==
