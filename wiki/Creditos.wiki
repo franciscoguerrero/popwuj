@@ -37,3 +37,5 @@
  * Oscar Mora
  * Alex Jerez
  * Juan Carlos Romero
+ * Eduardo Fonseca
+ * Alfonso Peralta
