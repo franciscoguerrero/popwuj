@@ -1,22 +1,37 @@
 <!DOCTYPE PencilDocument>
 <document>
   <editor>
-    <currentLayer value="3"/>
+    <currentLayer value="1"/>
     <currentFrame value="1"/>
-    <currentView dx="0" dy="0" m21="0" m11="1" m22="1" m12="0"/>
+    <currentView dx="-246,9918699186987" dy="24,69918699186996" m21="0" m11="1" m22="1" m12="0"/>
   </editor>
   <object>
     <layer visibility="0" type="1" id="1" name="MARCO">
       <image topLeftX="-255" topLeftY="-164" frame="1" src="001.001.png"/>
     </layer>
     <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
-      <camera dx="0" dy="0" m21="0" m11="1" m22="1" m12="0" frame="1"/>
+      <camera dx="-288,1789694682491" dy="107,5632240415171" m21="-0,03743992775384773" m11="0,7369824640702666" m22="0,7369824640702666" m12="0,03743992775384773" frame="1"/>
     </layer>
-    <layer visibility="1" type="1" id="3" name="Boceto">
+    <layer visibility="0" type="1" id="3" name="Pasillos - Boceto">
       <image topLeftX="-323" topLeftY="-194" frame="1" src="003.001.png"/>
     </layer>
-    <layer visibility="1" type="1" id="4" name="Bitmap Layer">
-      <image topLeftX="-367" topLeftY="-174" frame="1" src="004.001.png"/>
+    <layer visibility="0" type="1" id="4" name="Pasillos final">
+      <image topLeftX="-372" topLeftY="-174" frame="1" src="004.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="5" name="Bitmap Layer">
+      <image topLeftX="-691" topLeftY="-398" frame="1" src="005.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="6" name="Bitmap Layer">
+      <image topLeftX="-295" topLeftY="-231" frame="1" src="006.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="7" name="Bitmap Layer">
+      <image topLeftX="-387" topLeftY="-285" frame="1" src="007.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="8" name="Bitmap Layer">
+      <image topLeftX="-387" topLeftY="-230" frame="1" src="008.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="9" name="Bitmap Layer">
+      <image topLeftX="-296" topLeftY="-358" frame="1" src="009.001.png"/>
     </layer>
   </object>
 </document>
