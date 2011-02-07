@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv_sec="1297047708" tv_usec="884645" name="mover región">
+    <MementoUndoCommand obj_id="79" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="locutor 1y2" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="locutor 1y2" start="0" length="1497601" position="2600960" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="79" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="locutor 1y2" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="locutor 1y2" start="0" length="1497601" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1297047821" tv_usec="735964" name="mover región">
+    <MementoUndoCommand obj_id="79" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="locutor 1y2" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="locutor 1y2" start="0" length="1497601" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="79" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="locutor 1y2" orig_diskstream_id="78" frozen="no">
+        <Region id="97" name="locutor 1y2" start="0" length="1497601" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="62" source-1="64" channels="2" master-source-0="62" master-source-1="64">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+</UndoHistory>
