@@ -1,0 +1,25 @@
+<!DOCTYPE PencilDocument>
+<document>
+  <editor>
+    <currentLayer value="1"/>
+    <currentFrame value="1"/>
+    <currentView dx="-432,3330893998439" dy="21,38661684148103" m21="0" m11="0,5539218277602214" m22="0,5539218277602214" m12="0"/>
+  </editor>
+  <object>
+    <layer width="640" visibility="1" height="480" type="5" name="Camera Layer">
+      <camera dx="-315,9474786167636" dy="25,12181056195491" m21="0" m11="0,3910091216487708" m22="0,3910091216487708" m12="0" frame="1"/>
+    </layer>
+    <layer visibility="1" type="1" id="1" name="xibalba pasillo">
+      <image topLeftX="-583" topLeftY="-375" frame="1" src="001.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="4" name="xkik entra">
+      <image topLeftX="-321" topLeftY="-558" frame="1" src="004.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="5" name="xkik riega arbol">
+      <image topLeftX="-356" topLeftY="-585" frame="1" src="005.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="6" name="ultimo cuadro">
+      <image topLeftX="-417" topLeftY="-699" frame="1" src="006.001.png"/>
+    </layer>
+  </object>
+</document>
