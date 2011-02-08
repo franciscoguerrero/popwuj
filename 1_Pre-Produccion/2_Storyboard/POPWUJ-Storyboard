@@ -1,12 +1,12 @@
 <!DOCTYPE PencilDocument>
 <document>
   <editor>
-    <currentLayer value="11"/>
+    <currentLayer value="1"/>
     <currentFrame value="1"/>
     <currentView dx="-96,74796747967412" dy="21,73983739837399" m21="0" m11="1" m22="1" m12="0"/>
   </editor>
   <object>
-    <layer visibility="0" type="1" id="1" name="MARCO">
+    <layer visibility="1" type="1" id="1" name="MARCO">
       <image topLeftX="-255" topLeftY="-164" frame="1" src="001.001.png"/>
     </layer>
     <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
@@ -37,10 +37,13 @@
       <image topLeftX="-224" topLeftY="-140" frame="1" src="010.001.png"/>
     </layer>
     <layer visibility="0" type="1" id="11" name="cara en serio">
-      <image topLeftX="-12" topLeftY="-230" frame="1" src="011.001.png"/>
+      <image topLeftX="-230" topLeftY="-230" frame="1" src="011.001.png"/>
     </layer>
-    <layer visibility="1" type="1" id="12" name="Bitmap Layer">
-      <image topLeftX="0" topLeftY="0" frame="1" src="012.001.png"/>
+    <layer visibility="0" type="1" id="12" name="Bitmap Layer">
+      <image topLeftX="-340" topLeftY="-219" frame="1" src="012.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="13" name="Bitmap Layer">
+      <image topLeftX="-394" topLeftY="-268" frame="1" src="013.001.png"/>
     </layer>
   </object>
 </document>
