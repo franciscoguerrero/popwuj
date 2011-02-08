@@ -18,3 +18,7 @@
 ==Audio==
  * *Sonido:* [http://ardour.org Ardour] 2.8.11
  * *Efectos de Sonido:* [http://www.freesound.org/ The Free Sound Project]
+
+==Formatos==
+ * *Formato Final:* 1920×1080 píxeles (High Definition)
+ * *Storyboard* 480x270 píxeles
