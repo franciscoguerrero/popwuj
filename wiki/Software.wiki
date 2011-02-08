@@ -16,7 +16,7 @@
  * *Tipografías:* [http://openfontlibrary.org Open Font Library]
 
 ==Audio==
- * *Sonido:* [http://ardour.org Ardour] 2.8.11
+ * *Sonido:* [http://audacity.sourceforge.net/ Audacity] 1.3.12 beta
  * *Efectos de Sonido:* [http://www.freesound.org/ The Free Sound Project]
 
 ==Formatos==
