@@ -1,0 +1,7 @@
+#summary Efectos de Sonido Básicos
+
+==NARRADOR==
+
+1. Abrir archivo original con [http://audacity.sourceforge.net/ Audacity].
+
+2. 
