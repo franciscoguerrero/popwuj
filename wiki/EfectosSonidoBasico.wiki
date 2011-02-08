@@ -2,6 +2,6 @@
 
 ==NARRADOR==
 
-1. Abrir archivo original con [http://audacity.sourceforge.net/ Audacity].
-
-2. 
+ # Abrir archivo original con [http://audacity.sourceforge.net/ Audacity].
+ # Efectos / Normalizado.
+ # Efectos / Cambio de velocidad (-10%)
