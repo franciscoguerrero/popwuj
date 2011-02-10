@@ -4,17 +4,25 @@
 
 ==Sistema de Archivos==
  * [http://www.youtube.com/watch?v=W1HZCp_NG7o Durian Project: Library Linking!]
+
 == Modelado ==
  * [http://www.youtube.com/watch?v=JAGH-SuD9Qw Blender Tutorial: Sculpted Hair Mesh]
  * [http://www.youtube.com/watch?v=mn1ujPlJbJI Hair tutorial with Blender Particles and softbodies]
+
 == Texturas ==
  * [http://www.youtube.com/watch?v=e5_2seDBQrw Blender Tutorial Series - Part 13 - UV Mapping]
+
 == Rigging ==
  * [http://www.youtube.com/watch?v=sTDjqGQAMos Blender tutorial: Face rigging prt1 ]
  * [http://www.youtube.com/watch?v=tApdSx_4b0Q Tob's Blender 2.5 Foot Rigging Tutorial 1/10 Rig Overview]
  * [http://www.youtube.com/watch?v=RX8H1Z87sRk Tob's Blender 2.5 Foot Rigging Tutorial 2/10 Armature and IK]
+
+== Iluminación ==
+ * [http://bensimonds.com/2010/06/03/lighting-tips-from-the-masters/ Lighting tips from the Masters]
+
 == Animación ==
  * [http://www.youtube.com/watch?v=dqqOpLv5IWE Blender Tutorial: Walk and Run Cycle]
+
 == Render ==
  * [http://www.youtube.com/watch?v=mJWFRFystJU Ira Krakow's Free Blender 3D Render Farm Tutorial]
  * [http://www.youtube.com/watch?v=L8YL2qKe1R8 Blender Tutorial - Baking Ambient Occlusion ]
