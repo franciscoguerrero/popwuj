@@ -19,6 +19,7 @@
 
 == Iluminación ==
  * [http://bensimonds.com/2010/06/03/lighting-tips-from-the-masters/ Lighting tips from the Masters]
+ * [http://www.vimeo.com/19462359 Recreate the Hallway Scene from Inception - Part 2 of 2]
 
 == Animación ==
  * [http://www.youtube.com/watch?v=dqqOpLv5IWE Blender Tutorial: Walk and Run Cycle]
