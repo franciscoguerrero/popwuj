@@ -13,6 +13,7 @@
  * [http://www.youtube.com/watch?v=e5_2seDBQrw Blender Tutorial Series - Part 13 - UV Mapping]
 
 == Colores ==
+ * [http://www.degraeve.com/color-palette/index.php?q=http://a5.sphotos.ak.fbcdn.net/hphotos-ak-snc4/77164_162995473739368_110390738999842_281529_7626539_n.jpg,0a0b0f4f5269343a4e666c929a9ac0,0a0d16565e993442768089c2d2d3ef Color Palette Generator]
  * [http://colorschemedesigner.com Color Scheme Designer]
 
 == Rigging ==
