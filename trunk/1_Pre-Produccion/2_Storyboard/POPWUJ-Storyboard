@@ -55,8 +55,17 @@
     <layer visibility="0" type="1" id="16" name="Bitmap Layer">
       <image topLeftX="-285" topLeftY="-157" frame="1" src="016.001.png"/>
     </layer>
-    <layer visibility="1" type="1" id="17" name="Bitmap Layer">
+    <layer visibility="0" type="1" id="17" name="Bitmap Layer">
       <image topLeftX="-597" topLeftY="-262" frame="1" src="017.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="18" name="Bitmap Layer">
+      <image topLeftX="-386" topLeftY="-253" frame="1" src="018.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="19" name="Bitmap Layer">
+      <image topLeftX="-428" topLeftY="-155" frame="1" src="019.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="20" name="Bitmap Layer">
+      <image topLeftX="-393" topLeftY="-236" frame="1" src="020.001.png"/>
     </layer>
   </object>
 </document>
