@@ -3,6 +3,7 @@
 = Blender 3D =
 
 ==Sistema de Archivos==
+ * [http://orangebeat.blogspot.com/2010/02/estructura-de-proyectos-en-blender.html Estructura de proyectos en blender]
  * [http://www.youtube.com/watch?v=W1HZCp_NG7o Durian Project: Library Linking!]
 
 == Modelado ==
