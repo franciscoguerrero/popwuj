@@ -10,3 +10,8 @@
 
  # Normalizar
  # Reducción de ruido 24 db, 150Hz, 0.15seg
+
+==ARBOL==
+
+ #Normalizar
+ # Reducción de ruido
