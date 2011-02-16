@@ -5,3 +5,8 @@
  # Abrir archivo original con [http://audacity.sourceforge.net/ Audacity].
  # Efectos / Normalizado.
  # Efectos / Cambio de velocidad (-10%)
+
+==XKIK==
+
+ # Normalizar
+ # Reducción de ruido 24 db, 150Hz, 0.15seg
