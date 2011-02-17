@@ -3,14 +3,14 @@
   <editor>
     <currentLayer value="1"/>
     <currentFrame value="1"/>
-    <currentView dx="7,200858511261131" dy="27,30550418910314" m21="0" m11="0,6853084988202275" m22="0,6853084988202275" m12="0"/>
+    <currentView dx="90,74557395841556" dy="46,31363427040394" m21="0" m11="0,6853084988202275" m22="0,6853084988202275" m12="0"/>
   </editor>
   <object>
     <layer visibility="1" type="1" id="1" name="MARCO">
       <image topLeftX="-255" topLeftY="-164" frame="1" src="001.001.png"/>
     </layer>
-    <layer width="480" visibility="0" height="270" type="5" name="Camera Layer">
-      <camera dx="141,6160707846524" dy="11,68009602381425" m21="-0,02565475681701993" m11="1,074034501344934" m22="1,074034501344934" m12="0,02565475681701993" frame="1"/>
+    <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
+      <camera dx="604,4128187521309" dy="86,91586838153779" m21="-0,02565475681701993" m11="1,074034501344934" m22="1,074034501344934" m12="0,02565475681701993" frame="1"/>
     </layer>
     <layer visibility="0" type="1" id="3" name="Pasillos - Boceto">
       <image topLeftX="-323" topLeftY="-194" frame="1" src="003.001.png"/>
@@ -98,7 +98,10 @@
       <image topLeftX="-566" topLeftY="1132" frame="1" src="030.001.png"/>
     </layer>
     <layer visibility="1" type="1" id="31" name="Bitmap Layer">
-      <image topLeftX="-488" topLeftY="-196" frame="1" src="031.001.png"/>
+      <image topLeftX="-1004" topLeftY="-213" frame="1" src="031.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="32" name="Bitmap Layer">
+      <image topLeftX="-723" topLeftY="-189" frame="1" src="032.001.png"/>
     </layer>
   </object>
 </document>
