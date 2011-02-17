@@ -10,7 +10,7 @@
       <image topLeftX="-255" topLeftY="-164" frame="1" src="001.001.png"/>
     </layer>
     <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
-      <camera dx="-8,799420387928819" dy="4,712054693189373" m21="-0,01401117979560952" m11="0,9707389937447545" m22="0,9707389937447545" m12="0,01401117979560952" frame="1"/>
+      <camera dx="-7,825165405981851" dy="-16,48783333383009" m21="-0,01318230429959094" m11="0,5518761969162552" m22="0,5518761969162552" m12="0,01318230429959094" frame="1"/>
     </layer>
     <layer visibility="0" type="1" id="3" name="Pasillos - Boceto">
       <image topLeftX="-323" topLeftY="-194" frame="1" src="003.001.png"/>
@@ -76,8 +76,17 @@
     <layer visibility="0" type="1" id="23" name="Bitmap Layer">
       <image topLeftX="-543" topLeftY="-297" frame="1" src="023.001.png"/>
     </layer>
-    <layer visibility="1" type="1" id="24" name="Bitmap Layer">
-      <image topLeftX="-272" topLeftY="-164" frame="1" src="024.001.png"/>
+    <layer visibility="0" type="1" id="24" name="Bitmap Layer">
+      <image topLeftX="-668" topLeftY="-164" frame="1" src="024.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="26" name="Bitmap Layer">
+      <image topLeftX="-824" topLeftY="-331" frame="1" src="026.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="25" name="Bitmap Layer">
+      <image topLeftX="-675" topLeftY="-86" frame="1" src="025.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="27" name="Bitmap Layer">
+      <image topLeftX="-660" topLeftY="-265" frame="1" src="027.001.png"/>
     </layer>
   </object>
 </document>
