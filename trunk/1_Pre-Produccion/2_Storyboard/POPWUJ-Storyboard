@@ -1,16 +1,16 @@
 <!DOCTYPE PencilDocument>
 <document>
   <editor>
-    <currentLayer value="30"/>
+    <currentLayer value="1"/>
     <currentFrame value="1"/>
-    <currentView dx="-45,15686506597477" dy="26,39493508341211" m21="0" m11="0,6853084988202275" m22="0,6853084988202275" m12="0"/>
+    <currentView dx="338,4203707063829" dy="133,2729838638999" m21="0" m11="0,6853084988202275" m22="0,6853084988202275" m12="0"/>
   </editor>
   <object>
     <layer visibility="1" type="1" id="1" name="MARCO">
       <image topLeftX="-255" topLeftY="-164" frame="1" src="001.001.png"/>
     </layer>
     <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
-      <camera dx="604,4128187521309" dy="86,91586838153779" m21="-0,02565475681701993" m11="1,074034501344934" m22="1,074034501344934" m12="0,02565475681701993" frame="1"/>
+      <camera dx="420,202209105214" dy="153,9547369982108" m21="-0,01732319021196268" m11="0,7252340801244834" m22="0,7252340801244834" m12="0,01732319021196268" frame="1"/>
     </layer>
     <layer visibility="0" type="1" id="3" name="Pasillos - Boceto">
       <image topLeftX="-323" topLeftY="-194" frame="1" src="003.001.png"/>
@@ -97,11 +97,17 @@
     <layer visibility="0" type="1" id="30" name="Bitmap Layer">
       <image topLeftX="-566" topLeftY="1132" frame="1" src="030.001.png"/>
     </layer>
-    <layer visibility="1" type="1" id="31" name="Bitmap Layer">
+    <layer visibility="0" type="1" id="31" name="Bitmap Layer">
       <image topLeftX="-1004" topLeftY="-213" frame="1" src="031.001.png"/>
     </layer>
-    <layer visibility="1" type="1" id="32" name="Bitmap Layer">
-      <image topLeftX="-927" topLeftY="-303" frame="1" src="032.001.png"/>
+    <layer visibility="0" type="1" id="32" name="Bitmap Layer">
+      <image topLeftX="-985" topLeftY="-661" frame="1" src="032.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="33" name="Bitmap Layer">
+      <image topLeftX="-985" topLeftY="-689" frame="1" src="033.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="34" name="Bitmap Layer">
+      <image topLeftX="-1093" topLeftY="-554" frame="1" src="034.001.png"/>
     </layer>
   </object>
 </document>
