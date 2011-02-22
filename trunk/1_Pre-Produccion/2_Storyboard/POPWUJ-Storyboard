@@ -1,9 +1,9 @@
 <!DOCTYPE PencilDocument>
 <document>
   <editor>
-    <currentLayer value="1"/>
+    <currentLayer value="30"/>
     <currentFrame value="1"/>
-    <currentView dx="90,74557395841556" dy="46,31363427040394" m21="0" m11="0,6853084988202275" m22="0,6853084988202275" m12="0"/>
+    <currentView dx="-45,15686506597477" dy="26,39493508341211" m21="0" m11="0,6853084988202275" m22="0,6853084988202275" m12="0"/>
   </editor>
   <object>
     <layer visibility="1" type="1" id="1" name="MARCO">
@@ -101,7 +101,7 @@
       <image topLeftX="-1004" topLeftY="-213" frame="1" src="031.001.png"/>
     </layer>
     <layer visibility="1" type="1" id="32" name="Bitmap Layer">
-      <image topLeftX="-723" topLeftY="-189" frame="1" src="032.001.png"/>
+      <image topLeftX="-927" topLeftY="-303" frame="1" src="032.001.png"/>
     </layer>
   </object>
 </document>
