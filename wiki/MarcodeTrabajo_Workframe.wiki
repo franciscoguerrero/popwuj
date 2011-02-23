@@ -1,0 +1,11 @@
+#summary Instrucciones sobre el marco de trabajo.
+
+= Introduction =
+
+BIENVENID@ AL PROYECTO
+
+
+MARCO DE TRABAJO
+(FRAMEWORK)
+
+Repositorio Central: [http://code.google.com/p/popwuj/]
