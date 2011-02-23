@@ -144,43 +144,117 @@
       </task>
     </task>
   </tasks>
-  <resource-groups/>
+  <resource-groups>
+    <group id="1" name="Post-Producci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="2" name="Edici&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="3" name="Producci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="4" name="Gui&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="5" name="Runner" admin-name="" admin-phone="" admin-email=""/>
+    <group id="6" name="Wire Remover" admin-name="" admin-phone="" admin-email=""/>
+    <group id="7" name="Scanner/Recorder" admin-name="" admin-phone="" admin-email=""/>
+    <group id="8" name="Director T&#xE9;cnico de Scanning" admin-name="" admin-phone="" admin-email=""/>
+    <group id="9" name="Artista de Roto" admin-name="" admin-phone="" admin-email=""/>
+    <group id="10" name="Compositor" admin-name="" admin-phone="" admin-email=""/>
+    <group id="11" name="Supervisor de Composici&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="12" name="Renderer Wangler" admin-name="" admin-phone="" admin-email=""/>
+    <group id="13" name="Renderer" admin-name="" admin-phone="" admin-email=""/>
+    <group id="14" name="Director T&#xE9;cnico de Rendering" admin-name="" admin-phone="" admin-email=""/>
+    <group id="15" name="Supervisor de Rendering" admin-name="" admin-phone="" admin-email=""/>
+    <group id="16" name="Director T&#xE9;cnico de Fixing" admin-name="" admin-phone="" admin-email=""/>
+    <group id="17" name="Director T&#xE9;cnico de Iluminaci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="18" name="Supervisor de Iluminaci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="19" name="Pintor Digital" admin-name="" admin-phone="" admin-email=""/>
+    <group id="20" name="Pintor Matte" admin-name="" admin-phone="" admin-email=""/>
+    <group id="21" name="Rastreo de Movimiento en 3D" admin-name="" admin-phone="" admin-email=""/>
+    <group id="22" name="Artista de Simulaciones de F&#xED;sica" admin-name="" admin-phone="" admin-email=""/>
+    <group id="23" name="Director T&#xE9;cnico de Efectos" admin-name="" admin-phone="" admin-email=""/>
+    <group id="24" name="Artista de Efectos" admin-name="" admin-phone="" admin-email=""/>
+    <group id="25" name="Supervisor de Efectos" admin-name="" admin-phone="" admin-email=""/>
+    <group id="26" name="Animador Junior" admin-name="" admin-phone="" admin-email=""/>
+    <group id="27" name="Animaci&#xF3;n de Personaje" admin-name="" admin-phone="" admin-email=""/>
+    <group id="28" name="Animaci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="29" name="L&#xED;der de Animaci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="30" name="Decorado de Set" admin-name="" admin-phone="" admin-email=""/>
+    <group id="31" name="Director T&#xE9;cnico de Toma" admin-name="" admin-phone="" admin-email=""/>
+    <group id="32" name="Artistas de Montaje" admin-name="" admin-phone="" admin-email=""/>
+    <group id="33" name="Supervisor de Montaje" admin-name="" admin-phone="" admin-email=""/>
+    <group id="34" name="Director T&#xE9;cnico de Montaje" admin-name="" admin-phone="" admin-email=""/>
+    <group id="35" name="Director T&#xE9;cnico de Personajes" admin-name="" admin-phone="" admin-email=""/>
+    <group id="36" name="Rigger" admin-name="" admin-phone="" admin-email=""/>
+    <group id="37" name="Director T&#xE9;cnico de Rigging" admin-name="" admin-phone="" admin-email=""/>
+    <group id="38" name="Supervisor de Rigging" admin-name="" admin-phone="" admin-email=""/>
+    <group id="39" name="Artista de Texturas" admin-name="" admin-phone="" admin-email=""/>
+    <group id="40" name="Shader Writer" admin-name="" admin-phone="" admin-email=""/>
+    <group id="41" name="Director T&#xE9;cnico de Shading" admin-name="" admin-phone="" admin-email=""/>
+    <group id="42" name="Supervisor de Shading/Texturas" admin-name="" admin-phone="" admin-email=""/>
+    <group id="43" name="Modelador" admin-name="" admin-phone="" admin-email=""/>
+    <group id="44" name="Director T&#xE9;cnico de Modelado" admin-name="" admin-phone="" admin-email=""/>
+    <group id="45" name="Supervisor de Modelado" admin-name="" admin-phone="" admin-email=""/>
+    <group id="46" name="Tools Writer" admin-name="" admin-phone="" admin-email=""/>
+    <group id="47" name="Head of Tools (R &amp; D)" admin-name="" admin-phone="" admin-email=""/>
+    <group id="48" name="Soporte IT" admin-name="" admin-phone="" admin-email=""/>
+    <group id="49" name="Administrador de Sistemas" admin-name="" admin-phone="" admin-email=""/>
+    <group id="50" name="Asistente de Storyboard" admin-name="" admin-phone="" admin-email=""/>
+    <group id="51" name="Artista de Storyboard" admin-name="" admin-phone="" admin-email=""/>
+    <group id="52" name="Supervisor de Storyboard" admin-name="" admin-phone="" admin-email=""/>
+    <group id="53" name="Artistas de Pre-Vis" admin-name="" admin-phone="" admin-email=""/>
+    <group id="54" name="Dise&#xF1;o de Efectos" admin-name="" admin-phone="" admin-email=""/>
+    <group id="55" name="Dise&#xF1;o de Ambientes" admin-name="" admin-phone="" admin-email=""/>
+    <group id="56" name="Dise&#xF1;o de Personajes" admin-name="" admin-phone="" admin-email=""/>
+    <group id="57" name="R &amp; D Artist/Look Dev Artist" admin-name="" admin-phone="" admin-email=""/>
+    <group id="58" name="Artista Concepto" admin-name="" admin-phone="" admin-email=""/>
+    <group id="59" name="Director de Arte" admin-name="" admin-phone="" admin-email=""/>
+    <group id="60" name="Supervisor de CG" admin-name="" admin-phone="" admin-email=""/>
+    <group id="61" name="Director de Animaci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="62" name="Director de Fotograf&#xED;a" admin-name="" admin-phone="" admin-email=""/>
+    <group id="63" name="Supervisor de Efectos Especiales" admin-name="" admin-phone="" admin-email=""/>
+    <group id="64" name="Dise&#xF1;ador de Producci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="65" name="Asistente de Director" admin-name="" admin-phone="" admin-email=""/>
+    <group id="66" name="Director" admin-name="" admin-phone="" admin-email=""/>
+  </resource-groups>
   <resources>
-    <resource id="1" name="Francisco Guerrero Ure&#xF1;a" short-name="" type="1" units="0" email="francisco.guerrero.cr@gmail.com" note="" std-rate="10"/>
+    <resource id="1" name="Mait&#xE9;n Silva" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="2" name="Kike Molina" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="3" name="David Z&#xFA;&#xF1;iga" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="4" name="Grettel Hern&#xE1;ndez" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="5" name="Adriana Naranjo" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource group="30" id="6" name="Carolina Oca&#xF1;a" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource group="59" id="7" name="Alfonso Peralta" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource group="66" id="8" name="Francisco Guerrero Ure&#xF1;a" short-name="" type="1" units="0" email="francisco.guerrero.cr@gmail.com" note="" std-rate="10"/>
   </resources>
   <allocations>
-    <allocation task-id="34" resource-id="1" units="100"/>
-    <allocation task-id="32" resource-id="1" units="100"/>
-    <allocation task-id="33" resource-id="1" units="100"/>
-    <allocation task-id="5" resource-id="1" units="100"/>
-    <allocation task-id="4" resource-id="1" units="100"/>
-    <allocation task-id="3" resource-id="1" units="100"/>
-    <allocation task-id="1" resource-id="1" units="100"/>
-    <allocation task-id="31" resource-id="1" units="100"/>
-    <allocation task-id="30" resource-id="1" units="100"/>
-    <allocation task-id="26" resource-id="1" units="100"/>
-    <allocation task-id="25" resource-id="1" units="100"/>
-    <allocation task-id="24" resource-id="1" units="100"/>
-    <allocation task-id="22" resource-id="1" units="100"/>
-    <allocation task-id="21" resource-id="1" units="100"/>
-    <allocation task-id="20" resource-id="1" units="100"/>
-    <allocation task-id="2" resource-id="1" units="100"/>
-    <allocation task-id="19" resource-id="1" units="100"/>
-    <allocation task-id="23" resource-id="1" units="100"/>
-    <allocation task-id="29" resource-id="1" units="100"/>
-    <allocation task-id="28" resource-id="1" units="100"/>
-    <allocation task-id="27" resource-id="1" units="100"/>
-    <allocation task-id="18" resource-id="1" units="100"/>
-    <allocation task-id="17" resource-id="1" units="100"/>
-    <allocation task-id="16" resource-id="1" units="100"/>
-    <allocation task-id="15" resource-id="1" units="100"/>
-    <allocation task-id="14" resource-id="1" units="100"/>
-    <allocation task-id="10" resource-id="1" units="100"/>
-    <allocation task-id="9" resource-id="1" units="100"/>
-    <allocation task-id="12" resource-id="1" units="100"/>
-    <allocation task-id="13" resource-id="1" units="100"/>
-    <allocation task-id="11" resource-id="1" units="100"/>
-    <allocation task-id="8" resource-id="1" units="100"/>
-    <allocation task-id="7" resource-id="1" units="100"/>
+    <allocation task-id="34" resource-id="8" units="100"/>
+    <allocation task-id="32" resource-id="8" units="100"/>
+    <allocation task-id="33" resource-id="8" units="100"/>
+    <allocation task-id="5" resource-id="8" units="100"/>
+    <allocation task-id="4" resource-id="8" units="100"/>
+    <allocation task-id="3" resource-id="8" units="100"/>
+    <allocation task-id="1" resource-id="8" units="100"/>
+    <allocation task-id="31" resource-id="8" units="100"/>
+    <allocation task-id="30" resource-id="8" units="100"/>
+    <allocation task-id="26" resource-id="8" units="100"/>
+    <allocation task-id="25" resource-id="8" units="100"/>
+    <allocation task-id="24" resource-id="8" units="100"/>
+    <allocation task-id="22" resource-id="8" units="100"/>
+    <allocation task-id="21" resource-id="8" units="100"/>
+    <allocation task-id="20" resource-id="8" units="100"/>
+    <allocation task-id="2" resource-id="8" units="100"/>
+    <allocation task-id="19" resource-id="8" units="100"/>
+    <allocation task-id="23" resource-id="8" units="100"/>
+    <allocation task-id="29" resource-id="8" units="100"/>
+    <allocation task-id="28" resource-id="8" units="100"/>
+    <allocation task-id="27" resource-id="8" units="100"/>
+    <allocation task-id="18" resource-id="8" units="100"/>
+    <allocation task-id="17" resource-id="8" units="100"/>
+    <allocation task-id="16" resource-id="8" units="100"/>
+    <allocation task-id="15" resource-id="8" units="100"/>
+    <allocation task-id="14" resource-id="8" units="100"/>
+    <allocation task-id="10" resource-id="8" units="100"/>
+    <allocation task-id="9" resource-id="8" units="100"/>
+    <allocation task-id="12" resource-id="8" units="100"/>
+    <allocation task-id="13" resource-id="8" units="100"/>
+    <allocation task-id="11" resource-id="8" units="100"/>
+    <allocation task-id="8" resource-id="8" units="100"/>
+    <allocation task-id="7" resource-id="8" units="100"/>
   </allocations>
 </project>
