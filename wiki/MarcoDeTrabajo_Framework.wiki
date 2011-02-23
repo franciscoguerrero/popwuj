@@ -8,3 +8,6 @@ Todo el material de este proyecto se encuentra respaldado en un [http://es.wikip
 {{{
 IMPORTANTE: ACTUALIZAR el repositorio antes de efectuar cualquier cambio o enviar archivos locales.
 }}}
+
+==SOFTWARE==
+Para todo los procesos se han seleccionado herramientras gratuitas de código abierto, en la mayoría de los casos el software puede correr en Linux, Windows y Mac. Ver lista del [software] utlizado
