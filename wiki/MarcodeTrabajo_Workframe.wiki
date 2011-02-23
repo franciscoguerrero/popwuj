@@ -1,4 +1,4 @@
-#summary Instrucciones sobre el marco de trabajo.
+#summary Guía para trabajar con este repositorio.
 
 = Introduction =
 
