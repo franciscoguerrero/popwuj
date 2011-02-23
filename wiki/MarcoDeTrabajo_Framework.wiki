@@ -1,0 +1,5 @@
+#summary Guía para trabajar con este repositorio.
+
+= MARCO DE TRABAJO (FRAMEWORK) =
+
+Repositorio Central: [http://code.google.com/p/popwuj/]
