@@ -10,4 +10,7 @@ IMPORTANTE: ACTUALIZAR el repositorio antes de efectuar cualquier cambio o envia
 }}}
 
 ==SOFTWARE==
-Para todo los procesos se han seleccionado herramientras gratuitas de código abierto, en la mayoría de los casos el software puede correr en Linux, Windows y Mac. Ver lista del [Software] utlizado
+Para todo los procesos se han seleccionado herramientras gratuitas de código abierto, en la mayoría de los casos el software puede correr en Linux, Windows y Mac. Ver lista del [Software] utlizado.
+
+ * Windows: TortoiseSVN
+ * Linux: RabbitSVN 
