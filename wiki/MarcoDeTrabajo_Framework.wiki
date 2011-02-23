@@ -6,14 +6,13 @@
 Todo el material de este proyecto se encuentra respaldado en un [http://es.wikipedia.org/wiki/Repositorio repositorio], bajo licencia de [http://creativecommons.org/licenses/by-nc-sa/3.0/ Creative Commons], por el momento, sólo tienen acceso las personas relacionadas con el desarrollo del cortometraje. Si querés ser parte del equipo de producción, mandá un email con tu info a palantefilms@gmail.com
 
 ==SOFTWARE==
-Para todo los procesos se han seleccionado herramientras gratuitas de código abierto, para trabajar con el repositorio del Pop Wuj, se utilizan:
+Para este proyecto se ha seleccionado [Software] gratuito de código abierto. Para trabajar con el repositorio del Pop Wuj, se utilizan:
 
  * Windows: [http://tortoisesvn.tigris.org/ TortoiseSVN]
  * Linux: [http://www.rabbitvcs.org/ RabbitSVN]
  * Mac: [http://scplugin.tigris.org/ SC Plugin para Finder]
 
-Ver la lista de todo el [Software] utlizado.
-
 ==NORMAS DE TRABAJO==
  * *ACTUALIZAR* el repositorio antes de efectuar cualquier cambio o enviar archivos locales.
- * 
+ * *TRABAJAR* únicamente en los archivos asignados para evitar cualquier alteración del trabajo de alguien más.
+ * *ENVIAR* los cambios al repositorio con comentarios descriptivos del trabajo.
