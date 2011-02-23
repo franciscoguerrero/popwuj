@@ -3,14 +3,15 @@
 = MARCO DE TRABAJO (FRAMEWORK) =
 
 ==REPOSITORIO==
-Todo el material de este proyecto se encuentra respaldado en un [http://es.wikipedia.org/wiki/Repositorio repositorio] central al que, por el momento, sólo tienen acceso las personas relacionadas con el desarrollo del cortometraje. Si querés ser parte del equipo de producción, mandá un email con tu info a palantefilms@gmail.com
-
+Todo el material de este proyecto se encuentra respaldado en un [http://es.wikipedia.org/wiki/Repositorio repositorio] central al que, por el momento, sólo tienen acceso las personas relacionadas con el desarrollo del cortometraje.
 {{{
-IMPORTANTE: ACTUALIZAR el repositorio antes de efectuar cualquier cambio o enviar archivos locales.
+Si querés ser parte del equipo de producción, mandá un email con tu info a palantefilms@gmail.com
 }}}
 
 ==SOFTWARE==
 Para todo los procesos se han seleccionado herramientras gratuitas de código abierto, en la mayoría de los casos el software puede correr en Linux, Windows y Mac. Ver lista del [Software] utlizado.
 
- * Windows: TortoiseSVN
- * Linux: RabbitSVN 
+ * Windows: [http://tortoisesvn.tigris.org/ TortoiseSVN]
+ * Linux: [http://www.rabbitvcs.org/ RabbitSVN]
+ * Mac: [http://scplugin.tigris.org/ SC Plugin para Finder]
+
