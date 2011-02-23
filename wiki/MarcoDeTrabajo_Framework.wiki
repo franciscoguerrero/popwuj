@@ -4,7 +4,7 @@
 
 ==REPOSITORIO==
 Todo el material de este proyecto se encuentra respaldado en un [http://es.wikipedia.org/wiki/Repositorio repositorio] central al que, por el momento, sólo tienen acceso las personas relacionadas con el desarrollo del cortometraje. Si querés ser parte del equipo de producción, mandá un email con tu info a palantefilms@gmail.com
-
+`inline code`
 ==PARA CONECTAR DESDE WINDOWS==
 Podés usar el TotoiseSVN
 ==PARA CONECTAR DESDE LINUX==
