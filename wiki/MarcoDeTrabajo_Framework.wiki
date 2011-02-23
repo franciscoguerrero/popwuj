@@ -3,7 +3,7 @@
 = MARCO DE TRABAJO (FRAMEWORK) =
 
 ==REPOSITORIO==
-Todo el material de este proyecto se encuentra respaldado en un [http://es.wikipedia.org/wiki/Repositorio repositorio] central al que, por el momento, sólo tienen acceso las personas relacionadas con el desarrollo del cortometraje. Si querés ser parte del equipo de producción, mandá un email con tu info a palantefilms@gmail.com
+Todo el material de este proyecto se encuentra respaldado en un [http://es.wikipedia.org/wiki/Repositorio repositorio], bajo licencia de [http://creativecommons.org/licenses/by-nc-sa/3.0/ Creative Commons] al que, por el momento, sólo tienen acceso las personas relacionadas con el desarrollo del cortometraje. Si querés ser parte del equipo de producción, mandá un email con tu info a palantefilms@gmail.com
 
 ==SOFTWARE==
 Para todo los procesos se han seleccionado herramientras gratuitas de código abierto, para trabajar con el repositorio del Pop Wuj, se utilizan:
@@ -14,6 +14,6 @@ Para todo los procesos se han seleccionado herramientras gratuitas de código ab
 
 Ver la lista de todo el [Software] utlizado.
 
-{{{
-IMPORTANTE: ACTUALIZAR el repositorio antes de efectuar cualquier cambio o enviar archivos locales.
-}}}
+==NORMAS DE TRABAJO==
+ * *ACTUALIZAR* el repositorio antes de efectuar cualquier cambio o enviar archivos locales.
+ * 
