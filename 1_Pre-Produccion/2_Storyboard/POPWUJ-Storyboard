@@ -1,16 +1,13 @@
 <!DOCTYPE PencilDocument>
 <document>
   <editor>
-    <currentLayer value="1"/>
+    <currentLayer value="31"/>
     <currentFrame value="1"/>
     <currentView dx="338,4203707063829" dy="133,2729838638999" m21="0" m11="0,6853084988202275" m22="0,6853084988202275" m12="0"/>
   </editor>
   <object>
     <layer visibility="1" type="1" id="1" name="MARCO">
       <image topLeftX="-255" topLeftY="-164" frame="1" src="001.001.png"/>
-    </layer>
-    <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
-      <camera dx="420,202209105214" dy="153,9547369982108" m21="-0,01732319021196268" m11="0,7252340801244834" m22="0,7252340801244834" m12="0,01732319021196268" frame="1"/>
     </layer>
     <layer visibility="0" type="1" id="3" name="Pasillos - Boceto">
       <image topLeftX="-323" topLeftY="-194" frame="1" src="003.001.png"/>
@@ -103,11 +100,14 @@
     <layer visibility="0" type="1" id="32" name="Bitmap Layer">
       <image topLeftX="-985" topLeftY="-661" frame="1" src="032.001.png"/>
     </layer>
+    <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
+      <camera dx="235,7104767376313" dy="60,10945719596049" m21="-0,02207586881072531" m11="0,9242046190106012" m22="0,9242046190106012" m12="0,02207586881072531" frame="1"/>
+    </layer>
     <layer visibility="1" type="1" id="33" name="Bitmap Layer">
       <image topLeftX="-985" topLeftY="-689" frame="1" src="033.001.png"/>
     </layer>
     <layer visibility="1" type="1" id="34" name="Bitmap Layer">
-      <image topLeftX="-1093" topLeftY="-554" frame="1" src="034.001.png"/>
+      <image topLeftX="-1156" topLeftY="-554" frame="1" src="034.001.png"/>
     </layer>
   </object>
 </document>
