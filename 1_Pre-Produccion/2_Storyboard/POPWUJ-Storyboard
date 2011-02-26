@@ -1,12 +1,12 @@
 <!DOCTYPE PencilDocument>
 <document>
   <editor>
-    <currentLayer value="31"/>
+    <currentLayer value="35"/>
     <currentFrame value="1"/>
-    <currentView dx="338,4203707063829" dy="133,2729838638999" m21="0" m11="0,6853084988202275" m22="0,6853084988202275" m12="0"/>
+    <currentView dx="-7,934027630324591" dy="-176,4874140344481" m21="0" m11="0,354548344300195" m22="0,354548344300195" m12="0"/>
   </editor>
   <object>
-    <layer visibility="1" type="1" id="1" name="MARCO">
+    <layer visibility="0" type="1" id="1" name="MARCO">
       <image topLeftX="-255" topLeftY="-164" frame="1" src="001.001.png"/>
     </layer>
     <layer visibility="0" type="1" id="3" name="Pasillos - Boceto">
@@ -101,13 +101,19 @@
       <image topLeftX="-985" topLeftY="-661" frame="1" src="032.001.png"/>
     </layer>
     <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
-      <camera dx="235,7104767376313" dy="60,10945719596049" m21="-0,02207586881072531" m11="0,9242046190106012" m22="0,9242046190106012" m12="0,02207586881072531" frame="1"/>
+      <camera dx="17,37358074093926" dy="-0,4534769506567784" m21="-0,006254785755149976" m11="0,2618561441632971" m22="0,2618561441632971" m12="0,006254785755149976" frame="1"/>
     </layer>
     <layer visibility="1" type="1" id="33" name="Bitmap Layer">
       <image topLeftX="-985" topLeftY="-689" frame="1" src="033.001.png"/>
     </layer>
-    <layer visibility="1" type="1" id="34" name="Bitmap Layer">
-      <image topLeftX="-1156" topLeftY="-554" frame="1" src="034.001.png"/>
+    <layer visibility="0" type="1" id="34" name="Bitmap Layer">
+      <image topLeftX="-760" topLeftY="-199" frame="1" src="034.001.png"/>
+    </layer>
+    <layer visibility="0" type="1" id="35" name="Bitmap Layer">
+      <image topLeftX="-596" topLeftY="-620" frame="1" src="035.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="36" name="Bitmap Layer">
+      <image topLeftX="-1537" topLeftY="-567" frame="1" src="036.001.png"/>
     </layer>
   </object>
 </document>

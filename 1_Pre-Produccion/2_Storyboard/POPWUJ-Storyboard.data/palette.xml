@@ -1,6 +1,6 @@
 <!DOCTYPE PencilPalette>
 <palette>
-  <Colour red="222" blue="222" name="Black" green="222"/>
+  <Colour red="70" blue="70" name="Black" green="70"/>
   <Colour red="255" blue="0" name="Red" green="0"/>
   <Colour red="128" blue="0" name="Dark Red" green="0"/>
   <Colour red="255" blue="0" name="Orange" green="128"/>
