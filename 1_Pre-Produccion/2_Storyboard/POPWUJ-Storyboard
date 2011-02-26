@@ -1,9 +1,9 @@
 <!DOCTYPE PencilDocument>
 <document>
   <editor>
-    <currentLayer value="35"/>
+    <currentLayer value="31"/>
     <currentFrame value="1"/>
-    <currentView dx="-7,934027630324591" dy="-176,4874140344481" m21="0" m11="0,354548344300195" m22="0,354548344300195" m12="0"/>
+    <currentView dx="-47,31614145146291" dy="-547,316682327131" m21="0" m11="0,354548344300195" m22="0,354548344300195" m12="0"/>
   </editor>
   <object>
     <layer visibility="0" type="1" id="1" name="MARCO">
@@ -101,7 +101,8 @@
       <image topLeftX="-985" topLeftY="-661" frame="1" src="032.001.png"/>
     </layer>
     <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
-      <camera dx="17,37358074093926" dy="-0,4534769506567784" m21="-0,006254785755149976" m11="0,2618561441632971" m22="0,2618561441632971" m12="0,006254785755149976" frame="1"/>
+      <camera dx="-6,04136732095523" dy="-350,5489526902337" m21="-0,005835243508443104" m11="0,2442920389586043" m22="0,2442920389586043" m12="0,005835243508443104" frame="1"/>
+      <camera dx="-148,5454323616056" dy="-350,8904161048679" m21="-0,005835243508443104" m11="0,2442920389586043" m22="0,2442920389586043" m12="0,005835243508443104" frame="3"/>
     </layer>
     <layer visibility="1" type="1" id="33" name="Bitmap Layer">
       <image topLeftX="-985" topLeftY="-689" frame="1" src="033.001.png"/>
@@ -113,7 +114,12 @@
       <image topLeftX="-596" topLeftY="-620" frame="1" src="035.001.png"/>
     </layer>
     <layer visibility="1" type="1" id="36" name="Bitmap Layer">
-      <image topLeftX="-1537" topLeftY="-567" frame="1" src="036.001.png"/>
+      <image topLeftX="-1718" topLeftY="-567" frame="1" src="036.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="37" name="Bitmap Layer">
+      <image topLeftX="-1193" topLeftY="1199" frame="1" src="037.001.png"/>
+      <image topLeftX="-1041" topLeftY="971" frame="2" src="037.002.png"/>
+      <image topLeftX="-840" topLeftY="816" frame="3" src="037.003.png"/>
     </layer>
   </object>
 </document>
