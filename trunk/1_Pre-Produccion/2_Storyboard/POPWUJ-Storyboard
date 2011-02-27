@@ -1,12 +1,12 @@
 <!DOCTYPE PencilDocument>
 <document>
   <editor>
-    <currentLayer value="31"/>
-    <currentFrame value="7"/>
-    <currentView dx="-926,015328443332" dy="-516,3573327336351" m21="0" m11="0,354548344300195" m22="0,354548344300195" m12="0"/>
+    <currentLayer value="35"/>
+    <currentFrame value="5"/>
+    <currentView dx="-80,59809099927077" dy="-338,7579128359171" m21="0" m11="0,5115006084426118" m22="0,5115006084426118" m12="0"/>
   </editor>
   <object>
-    <layer visibility="0" type="1" id="1" name="MARCO">
+    <layer visibility="1" type="1" id="1" name="MARCO">
       <image topLeftX="-255" topLeftY="-164" frame="1" src="001.001.png"/>
     </layer>
     <layer visibility="0" type="1" id="3" name="Pasillos - Boceto">
@@ -100,14 +100,6 @@
     <layer visibility="0" type="1" id="32" name="Bitmap Layer">
       <image topLeftX="-985" topLeftY="-661" frame="1" src="032.001.png"/>
     </layer>
-    <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
-      <camera dx="-6,04136732095523" dy="-350,5489526902337" m21="-0,005835243508443104" m11="0,2442920389586043" m22="0,2442920389586043" m12="0,005835243508443104" frame="1"/>
-      <camera dx="-148,5454323616056" dy="-350,8904161048679" m21="-0,005835243508443104" m11="0,2442920389586043" m22="0,2442920389586043" m12="0,005835243508443104" frame="3"/>
-      <camera dx="-267,3747006542887" dy="-359,7684648853557" m21="-0,005835243508443104" m11="0,2442920389586043" m22="0,2442920389586043" m12="0,005835243508443104" frame="4"/>
-      <camera dx="-380,968196589248" dy="-380,1424486251932" m21="-0,005835243508443104" m11="0,2442920389586043" m22="0,2442920389586043" m12="0,005835243508443104" frame="5"/>
-      <camera dx="-510,2690095973778" dy="-383,1017982186891" m21="-0,005835243508443104" m11="0,2442920389586043" m22="0,2442920389586043" m12="0,005835243508443104" frame="6"/>
-      <camera dx="-613,6186030933125" dy="-396,7603348040549" m21="-0,005835243508443104" m11="0,2442920389586043" m22="0,2442920389586043" m12="0,005835243508443104" frame="7"/>
-    </layer>
     <layer visibility="1" type="1" id="33" name="Bitmap Layer">
       <image topLeftX="-985" topLeftY="-689" frame="1" src="033.001.png"/>
     </layer>
@@ -117,14 +109,27 @@
     <layer visibility="0" type="1" id="35" name="Bitmap Layer">
       <image topLeftX="-596" topLeftY="-620" frame="1" src="035.001.png"/>
     </layer>
-    <layer visibility="1" type="1" id="36" name="Bitmap Layer">
+    <layer visibility="0" type="1" id="36" name="Bitmap Layer">
       <image topLeftX="-1718" topLeftY="-567" frame="1" src="036.001.png"/>
     </layer>
-    <layer visibility="1" type="1" id="37" name="Bitmap Layer">
+    <layer width="480" visibility="0" height="270" type="5" name="Camera Layer">
+      <camera dx="-69,17642455849199" dy="-168,4092670267042" m21="-0,02104536245417946" m11="0,8810625464242333" m22="0,8810625464242333" m12="0,02104536245417946" frame="1"/>
+      <camera dx="-51,93482738783216" dy="-116,8674437056154" m21="-0,03070932651559037" m11="1,285643688851079" m22="1,285643688851079" m12="0,03070932651559037" frame="2"/>
+      <camera dx="-42,48940336157639" dy="61,7041126661133" m21="-0,03406067999052637" m11="1,425947854817506" m22="1,425947854817506" m12="0,03406067999052637" frame="3"/>
+      <camera dx="132,6837684843761" dy="98,82003770559622" m21="-0,04700516365443758" m11="1,967867708367359" m22="1,967867708367359" m12="0,04700516365443758" frame="4"/>
+      <camera dx="208,7797897779984" dy="132,647584395383" m21="-0,0718665053854781" m11="3,008685945675671" m22="3,008685945675671" m12="0,0718665053854781" frame="5"/>
+    </layer>
+    <layer visibility="0" type="1" id="37" name="Bitmap Layer">
       <image topLeftX="-1193" topLeftY="1199" frame="1" src="037.001.png"/>
       <image topLeftX="-1041" topLeftY="971" frame="2" src="037.002.png"/>
       <image topLeftX="-840" topLeftY="816" frame="3" src="037.003.png"/>
       <image topLeftX="-777" topLeftY="729" frame="4" src="037.004.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="38" name="Bitmap Layer">
+      <image topLeftX="-708" topLeftY="-324" frame="1" src="038.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="39" name="Bitmap Layer">
+      <image topLeftX="-276" topLeftY="94" frame="1" src="039.001.png"/>
     </layer>
   </object>
 </document>
