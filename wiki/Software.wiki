@@ -12,7 +12,7 @@
 
  * *Gráficos 2D:* [http://www.gimp.org/ Gimp] 2.6
  * *Animación 2D:* [http://www.les-stooges.org/pascal/pencil/ Pencil] 0.0.4
- * *Animación 3D:* [http://www.blender3d.org/ Blender] 2.49
+ * *Animación 3D:* [http://www.blender3d.org/ Blender] 2.5
  * *Tipografías:* [http://openfontlibrary.org Open Font Library]
  * *Tipografía Oficial:* OFL Sorts Mill Goudy Medium
 
