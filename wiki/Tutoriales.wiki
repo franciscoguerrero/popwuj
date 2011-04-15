@@ -32,3 +32,6 @@
 == Render ==
  * [http://www.youtube.com/watch?v=mJWFRFystJU Ira Krakow's Free Blender 3D Render Farm Tutorial]
  * [http://www.youtube.com/watch?v=L8YL2qKe1R8 Blender Tutorial - Baking Ambient Occlusion ]
+
+==Edición de video==
+ * [http://www.youtube.com/watch?v=cyfNIaUrkpU Ken Burns Effect and Kdenlive Details]
