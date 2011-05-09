@@ -213,49 +213,52 @@
     <group id="66" name="Post-Producci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
   </resource-groups>
   <resources>
-    <resource group="1" id="1" name="Francisco Guerrero Ure&#xF1;a" short-name="" type="1" units="0" email="francisco.guerrero.cr@gmail.com" note="" std-rate="12"/>
-    <resource group="9" id="2" name="Alfonso Peralta" short-name="" type="1" units="0" email="peralta.alfonso@gmail.com" note="" std-rate="12"/>
-    <resource group="12" id="3" name="Adriana Naranjo" short-name="" type="1" units="0" email="" note="" std-rate="12"/>
-    <resource id="4" name="Jonathan Segura" short-name="" type="1" units="0" email="jsegura17@gmail.com" note="" std-rate="0"/>
-    <resource id="5" name="Marleny Tzicap" short-name="" type="1" units="0" email="martzicap" note="" std-rate="0"/>
-    <resource id="6" name="Lester Ramos" short-name="" type="1" units="0" email="micanimation3d" note="" std-rate="0"/>
-    <resource id="7" name="Luis Lara" short-name="" type="1" units="0" email="l3clara" note="" std-rate="0"/>
-    <resource id="8" name="Adolfo Andrade" short-name="" type="1" units="0" email="darkmasteradolphus" note="" std-rate="0"/>
-    <resource id="9" name="Esteban Yong" short-name="" type="1" units="0" email="elcorreodelchino" note="" std-rate="0"/>
+    <resource id="1" name="Mat&#xED;as Guti&#xE9;rrez" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="2" name="Andr&#xE9;s Cervilla" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="3" name="Romelia Mo'" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource group="1" id="4" name="Francisco Guerrero Ure&#xF1;a" short-name="" type="1" units="0" email="francisco.guerrero.cr@gmail.com" note="" std-rate="12"/>
+    <resource group="9" id="5" name="Alfonso Peralta" short-name="" type="1" units="0" email="peralta.alfonso@gmail.com" note="" std-rate="12"/>
+    <resource group="12" id="6" name="Adriana Naranjo" short-name="" type="1" units="0" email="" note="" std-rate="12"/>
+    <resource id="7" name="Jonathan Segura" short-name="" type="1" units="0" email="jsegura17@gmail.com" note="" std-rate="0"/>
+    <resource id="8" name="Marleny Tzicap" short-name="" type="1" units="0" email="martzicap" note="" std-rate="0"/>
+    <resource id="9" name="Lester Ramos" short-name="" type="1" units="0" email="micanimation3d" note="" std-rate="0"/>
+    <resource id="10" name="Luis Lara" short-name="" type="1" units="0" email="l3clara" note="" std-rate="0"/>
+    <resource id="11" name="Adolfo Andrade" short-name="" type="1" units="0" email="darkmasteradolphus" note="" std-rate="0"/>
+    <resource id="12" name="Esteban Yong" short-name="" type="1" units="0" email="elcorreodelchino" note="" std-rate="0"/>
   </resources>
   <allocations>
-    <allocation task-id="34" resource-id="1" units="100"/>
-    <allocation task-id="32" resource-id="1" units="100"/>
-    <allocation task-id="33" resource-id="1" units="100"/>
-    <allocation task-id="5" resource-id="1" units="100"/>
-    <allocation task-id="4" resource-id="1" units="100"/>
-    <allocation task-id="3" resource-id="1" units="100"/>
-    <allocation task-id="1" resource-id="1" units="100"/>
-    <allocation task-id="31" resource-id="1" units="100"/>
-    <allocation task-id="30" resource-id="1" units="100"/>
-    <allocation task-id="26" resource-id="1" units="100"/>
-    <allocation task-id="25" resource-id="1" units="100"/>
-    <allocation task-id="24" resource-id="1" units="100"/>
-    <allocation task-id="22" resource-id="1" units="100"/>
-    <allocation task-id="21" resource-id="1" units="100"/>
-    <allocation task-id="20" resource-id="1" units="100"/>
-    <allocation task-id="2" resource-id="1" units="100"/>
-    <allocation task-id="19" resource-id="1" units="100"/>
-    <allocation task-id="23" resource-id="1" units="100"/>
-    <allocation task-id="29" resource-id="1" units="100"/>
-    <allocation task-id="28" resource-id="1" units="100"/>
-    <allocation task-id="27" resource-id="1" units="100"/>
-    <allocation task-id="18" resource-id="1" units="100"/>
-    <allocation task-id="17" resource-id="1" units="100"/>
-    <allocation task-id="16" resource-id="1" units="100"/>
-    <allocation task-id="15" resource-id="1" units="100"/>
-    <allocation task-id="14" resource-id="1" units="100"/>
-    <allocation task-id="10" resource-id="1" units="100"/>
-    <allocation task-id="9" resource-id="1" units="100"/>
-    <allocation task-id="12" resource-id="1" units="100"/>
-    <allocation task-id="13" resource-id="1" units="100"/>
-    <allocation task-id="11" resource-id="1" units="100"/>
-    <allocation task-id="8" resource-id="1" units="100"/>
-    <allocation task-id="7" resource-id="1" units="100"/>
+    <allocation task-id="34" resource-id="4" units="100"/>
+    <allocation task-id="32" resource-id="4" units="100"/>
+    <allocation task-id="33" resource-id="4" units="100"/>
+    <allocation task-id="5" resource-id="4" units="100"/>
+    <allocation task-id="4" resource-id="4" units="100"/>
+    <allocation task-id="3" resource-id="4" units="100"/>
+    <allocation task-id="1" resource-id="4" units="100"/>
+    <allocation task-id="31" resource-id="4" units="100"/>
+    <allocation task-id="30" resource-id="4" units="100"/>
+    <allocation task-id="26" resource-id="4" units="100"/>
+    <allocation task-id="25" resource-id="4" units="100"/>
+    <allocation task-id="24" resource-id="4" units="100"/>
+    <allocation task-id="22" resource-id="4" units="100"/>
+    <allocation task-id="21" resource-id="4" units="100"/>
+    <allocation task-id="20" resource-id="4" units="100"/>
+    <allocation task-id="2" resource-id="4" units="100"/>
+    <allocation task-id="19" resource-id="4" units="100"/>
+    <allocation task-id="23" resource-id="4" units="100"/>
+    <allocation task-id="29" resource-id="4" units="100"/>
+    <allocation task-id="28" resource-id="4" units="100"/>
+    <allocation task-id="27" resource-id="4" units="100"/>
+    <allocation task-id="18" resource-id="4" units="100"/>
+    <allocation task-id="17" resource-id="4" units="100"/>
+    <allocation task-id="16" resource-id="4" units="100"/>
+    <allocation task-id="15" resource-id="4" units="100"/>
+    <allocation task-id="14" resource-id="4" units="100"/>
+    <allocation task-id="10" resource-id="4" units="100"/>
+    <allocation task-id="9" resource-id="4" units="100"/>
+    <allocation task-id="12" resource-id="4" units="100"/>
+    <allocation task-id="13" resource-id="4" units="100"/>
+    <allocation task-id="11" resource-id="4" units="100"/>
+    <allocation task-id="8" resource-id="4" units="100"/>
+    <allocation task-id="7" resource-id="4" units="100"/>
   </allocations>
 </project>
