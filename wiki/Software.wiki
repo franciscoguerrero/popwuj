@@ -6,7 +6,7 @@
  * *Paquete de Oficina:* [http://www.openoffice.org/ OpenOffice] 3.2
  * *Administrador de Proyecto:* [http://live.gnome.org/Planner Planner] 0.014
  * *Administrador de Producción Audiovisual:* [https://www.celtx.com/ Celtx] 2.7
- * *Control de versiones:* [http://www.rabbitvcs.org/ RabbitVCS] | 
+ * *Control de versiones:* [http://www.rabbitvcs.org/ RabbitVCS] | Mac: [http://code.google.com/p/svnx/downloads/list SVNX]
 
 ==Gráficos==
 
