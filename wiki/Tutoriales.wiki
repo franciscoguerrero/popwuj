@@ -1,7 +1,5 @@
 #summary Enlaces a tutoriales en Internet
 
-test
-
 = Blender 3D =
 
 ==Sistema de Archivos==
