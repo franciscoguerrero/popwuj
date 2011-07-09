@@ -26,7 +26,7 @@
   </calendars>
   <tasks>
     <task id="1" name="Gui&#xF3;n" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="2" name="Storyboard" note="" work="144000" start="20101012T170000Z" end="20101019T170000Z" work-start="20101013T080000Z" percent-complete="50" priority="0" type="normal" scheduling="fixed-work">
+    <task id="2" name="Storyboard" note="" work="144000" start="20101012T170000Z" end="20101019T170000Z" work-start="20101013T080000Z" percent-complete="79" priority="0" type="normal" scheduling="fixed-work">
       <predecessors>
         <predecessor id="1" predecessor-id="1" type="FS"/>
       </predecessors>
@@ -35,114 +35,145 @@
     <task id="4" name="Dise&#xF1;o de Junajpu" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
     <task id="5" name="Dise&#xF1;o de Xbalamkej" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
     <task id="6" name="Dise&#xF1;o de Xmukane" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="7" name="Modelo Gen&#xE9;rico" note="" work="172800" start="20110131T000000Z" end="20110204T170000Z" work-start="20110131T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
-      <task id="8" name="Armadura" note="" work="57600" start="20110131T000000Z" end="20110201T170000Z" work-start="20110131T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
-        <task id="9" name="IK" note="" work="28800" start="20110131T000000Z" end="20110131T170000Z" work-start="20110131T080000Z" percent-complete="50" priority="0" type="normal" scheduling="fixed-work">
+    <task id="7" name="Modelo Gen&#xE9;rico" note="" work="3355200" start="20110131T000000Z" end="20110711T120000Z" work-start="20110131T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="8" name="Armadura" note="" work="3240000" start="20110131T000000Z" end="20110706T120000Z" work-start="20110131T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+        <task id="9" name="IK" note="" work="3211200" start="20110131T000000Z" end="20110705T120000Z" work-start="20110131T080000Z" percent-complete="63" priority="0" type="normal" scheduling="fixed-work">
           <constraint type="must-start-on" time="20110131T000000Z"/>
         </task>
-        <task id="10" name="FK" note="" work="28800" start="20110131T170000Z" end="20110201T170000Z" work-start="20110201T080000Z" percent-complete="50" priority="0" type="normal" scheduling="fixed-work">
+        <task id="10" name="FK" note="" work="28800" start="20110705T120000Z" end="20110706T120000Z" work-start="20110705T120000Z" percent-complete="50" priority="0" type="normal" scheduling="fixed-work">
           <predecessors>
             <predecessor id="1" predecessor-id="9" type="FS"/>
           </predecessors>
         </task>
       </task>
-      <task id="11" name="UV Maps" note="" work="28800" start="20110201T170000Z" end="20110202T170000Z" work-start="20110202T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="11" name="UV Maps" note="" work="28800" start="20110706T120000Z" end="20110707T120000Z" work-start="20110706T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="8" type="FS"/>
         </predecessors>
       </task>
-      <task id="12" name="Ciclo Caminar" note="" work="28800" start="20110201T170000Z" end="20110202T170000Z" work-start="20110202T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="12" name="Ciclo Caminar" note="" work="28800" start="20110706T120000Z" end="20110707T120000Z" work-start="20110706T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="8" type="FS"/>
         </predecessors>
       </task>
-      <task id="13" name="Ciclo Correr" note="" work="28800" start="20110202T170000Z" end="20110203T170000Z" work-start="20110203T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="13" name="Ciclo Correr" note="" work="28800" start="20110707T120000Z" end="20110708T120000Z" work-start="20110707T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="12" type="FS"/>
         </predecessors>
       </task>
-      <task id="14" name="Ciclo Cerrar dedos" note="" work="28800" start="20110203T170000Z" end="20110204T170000Z" work-start="20110204T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="14" name="Ciclo Cerrar dedos" note="" work="28800" start="20110708T120000Z" end="20110711T120000Z" work-start="20110708T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="13" type="FS"/>
         </predecessors>
       </task>
     </task>
-    <task id="15" name="Modelo Xkik" note="" work="86400" start="20110204T170000Z" end="20110209T170000Z" work-start="20110207T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+    <task id="15" name="Modelo Xkik" note="" work="86400" start="20110711T120000Z" end="20110714T120000Z" work-start="20110711T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <predecessors>
         <predecessor id="1" predecessor-id="7" type="FS"/>
       </predecessors>
-      <task id="16" name="Ropa Xkik" note="" work="28800" start="20110204T170000Z" end="20110207T170000Z" work-start="20110207T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-      <task id="17" name="Accesorios Xkik" note="" work="28800" start="20110207T170000Z" end="20110208T170000Z" work-start="20110208T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="16" name="Ropa Xkik" note="" work="28800" start="20110711T120000Z" end="20110712T120000Z" work-start="20110711T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="17" name="Accesorios Xkik" note="" work="28800" start="20110712T120000Z" end="20110713T120000Z" work-start="20110712T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="16" type="FS"/>
         </predecessors>
       </task>
-      <task id="18" name="UV Maps Xkik" note="" work="28800" start="20110208T170000Z" end="20110209T170000Z" work-start="20110209T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="18" name="UV Maps Xkik" note="" work="28800" start="20110713T120000Z" end="20110714T120000Z" work-start="20110713T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="17" type="FS"/>
         </predecessors>
       </task>
     </task>
-    <task id="19" name="Modelo Junajpu" note="" work="86400" start="20110209T170000Z" end="20110211T170000Z" work-start="20110210T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+    <task id="19" name="Modelo Junajpu" note="" work="86400" start="20110714T120000Z" end="20110718T120000Z" work-start="20110714T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <predecessors>
         <predecessor id="1" predecessor-id="15" type="FS"/>
       </predecessors>
-      <task id="20" name="Ropa Junajpu" note="" work="28800" start="20110209T170000Z" end="20110210T170000Z" work-start="20110210T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-      <task id="21" name="Accesorios Junajpu" note="" work="28800" start="20110209T170000Z" end="20110210T170000Z" work-start="20110210T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-      <task id="22" name="UV Maps Junajpu" note="" work="28800" start="20110210T170000Z" end="20110211T170000Z" work-start="20110211T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="20" name="Ropa Junajpu" note="" work="28800" start="20110714T120000Z" end="20110715T120000Z" work-start="20110714T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="21" name="Accesorios Junajpu" note="" work="28800" start="20110714T120000Z" end="20110715T120000Z" work-start="20110714T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="22" name="UV Maps Junajpu" note="" work="28800" start="20110715T120000Z" end="20110718T120000Z" work-start="20110715T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="21" type="FS"/>
         </predecessors>
       </task>
     </task>
-    <task id="23" name="Modelo Xbalamkej" note="" work="86400" start="20110211T170000Z" end="20110216T170000Z" work-start="20110214T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+    <task id="23" name="Modelo Xbalamkej" note="" work="86400" start="20110718T120000Z" end="20110721T120000Z" work-start="20110718T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <predecessors>
         <predecessor id="1" predecessor-id="19" type="FS"/>
       </predecessors>
-      <task id="24" name="Ropa Xbalamkej" note="" work="28800" start="20110211T170000Z" end="20110214T170000Z" work-start="20110214T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-      <task id="25" name="Accesorios Xbalamkej" note="" work="28800" start="20110214T170000Z" end="20110215T170000Z" work-start="20110215T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="24" name="Ropa Xbalamkej" note="" work="28800" start="20110718T120000Z" end="20110719T120000Z" work-start="20110718T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="25" name="Accesorios Xbalamkej" note="" work="28800" start="20110719T120000Z" end="20110720T120000Z" work-start="20110719T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="24" type="FS"/>
         </predecessors>
       </task>
-      <task id="26" name="UV Maps Xbalamkej" note="" work="28800" start="20110215T170000Z" end="20110216T170000Z" work-start="20110216T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="26" name="UV Maps Xbalamkej" note="" work="28800" start="20110720T120000Z" end="20110721T120000Z" work-start="20110720T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="25" type="FS"/>
         </predecessors>
       </task>
     </task>
-    <task id="27" name="Modelo Xmukane" note="" work="86400" start="20110216T170000Z" end="20110221T170000Z" work-start="20110217T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+    <task id="27" name="Modelo Xmukane" note="" work="86400" start="20110721T120000Z" end="20110726T120000Z" work-start="20110721T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <predecessors>
         <predecessor id="1" predecessor-id="23" type="FS"/>
       </predecessors>
-      <task id="28" name="Ropa Xmukane" note="" work="28800" start="20110216T170000Z" end="20110217T170000Z" work-start="20110217T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-      <task id="29" name="Accesorios Xmukane" note="" work="28800" start="20110217T170000Z" end="20110218T170000Z" work-start="20110218T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="28" name="Ropa Xmukane" note="" work="28800" start="20110721T120000Z" end="20110722T120000Z" work-start="20110721T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="29" name="Accesorios Xmukane" note="" work="28800" start="20110722T120000Z" end="20110725T120000Z" work-start="20110722T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="28" type="FS"/>
         </predecessors>
       </task>
-      <task id="30" name="UV Maps Xmukane" note="" work="28800" start="20110218T170000Z" end="20110221T170000Z" work-start="20110221T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="30" name="UV Maps Xmukane" note="" work="28800" start="20110725T120000Z" end="20110726T120000Z" work-start="20110725T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="29" type="FS"/>
         </predecessors>
       </task>
     </task>
-    <task id="31" name="Escenario 01 ARBOL DE JICARA" note="" work="259200" start="20110221T170000Z" end="20110304T170000Z" work-start="20110222T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+    <task id="31" name="Escenario 01 ARBOL DE JICARA" note="" work="259200" start="20110726T120000Z" end="20110808T120000Z" work-start="20110726T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <predecessors>
         <predecessor id="1" predecessor-id="27" type="FS"/>
       </predecessors>
-      <task id="32" name="Modelo Escenario 01" note="" work="144000" start="20110221T170000Z" end="20110228T170000Z" work-start="20110222T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-      <task id="33" name="UV Map Escenario 01" note="" work="86400" start="20110228T170000Z" end="20110303T170000Z" work-start="20110301T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="32" name="Modelo Escenario 01" note="" work="144000" start="20110726T120000Z" end="20110802T120000Z" work-start="20110726T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="33" name="UV Map Escenario 01" note="" work="86400" start="20110802T120000Z" end="20110805T120000Z" work-start="20110802T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="32" type="FS"/>
         </predecessors>
       </task>
-      <task id="34" name="Luces Escenario 01" note="" work="28800" start="20110303T170000Z" end="20110304T170000Z" work-start="20110304T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="34" name="Luces Escenario 01" note="" work="28800" start="20110805T120000Z" end="20110808T120000Z" work-start="20110805T120000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
         <predecessors>
           <predecessor id="1" predecessor-id="33" type="FS"/>
         </predecessors>
       </task>
     </task>
+    <task id="35" name="Escenario 02 PUERTA DE XIBALBA" note="" work="86400" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="36" name="Modelado Escenario 02" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="37" name="UV Map Escenario 02" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="38" name="Luces Escenario 02" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    </task>
+    <task id="39" name="Escenario 03 SELVA" note="" work="86400" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="40" name="Modelo Escenario 03" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="41" name="UV Map Escenario 03" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="42" name="Luces Escenario 03" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    </task>
+    <task id="43" name="Escenario 04 PANORAMA" note="" work="86400" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="44" name="Modelo Escenario 04" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="45" name="UV Map Escenario 04" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="46" name="Luces Escenario 04" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    </task>
+    <task id="47" name="Escenario 05 CANCHA DE PELOTA" note="" work="86400" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="48" name="Modelo Escenario 05" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="49" name="UV Map Escenario 05" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="50" name="Luces Escenario 05" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    </task>
+    <task id="51" name="Escenario 06 TEMPLO DE XIBALBA" note="" work="86400" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="52" name="Modelo Escenario 06" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="53" name="UV Map Escenario 06" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="54" name="Luces Escenario 06" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    </task>
+    <task id="55" name="Escenario 07 CUATRO CAMINOS" note="" work="86400" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="56" name="Modelo Escenario 07" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="57" name="UV Map Escenario 07" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="58" name="Luces Escenario 07" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    </task>
+    <task id="59" name="REVISAR 3D VIEJO RESCATAR" note="" work="28800" start="20101012T000000Z" end="20101012T170000Z" work-start="20101012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
   </tasks>
   <resource-groups>
     <group id="1" name="Director" admin-name="" admin-phone="" admin-email=""/>
@@ -213,52 +244,53 @@
     <group id="66" name="Post-Producci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
   </resource-groups>
   <resources>
-    <resource id="1" name="Mat&#xED;as Guti&#xE9;rrez" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
-    <resource id="2" name="Andr&#xE9;s Cervilla" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
-    <resource id="3" name="Romelia Mo'" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
-    <resource group="1" id="4" name="Francisco Guerrero Ure&#xF1;a" short-name="" type="1" units="0" email="francisco.guerrero.cr@gmail.com" note="" std-rate="12"/>
-    <resource group="9" id="5" name="Alfonso Peralta" short-name="" type="1" units="0" email="peralta.alfonso@gmail.com" note="" std-rate="12"/>
-    <resource group="12" id="6" name="Adriana Naranjo" short-name="" type="1" units="0" email="" note="" std-rate="12"/>
-    <resource id="7" name="Jonathan Segura" short-name="" type="1" units="0" email="jsegura17@gmail.com" note="" std-rate="0"/>
-    <resource id="8" name="Marleny Tzicap" short-name="" type="1" units="0" email="martzicap" note="" std-rate="0"/>
-    <resource id="9" name="Lester Ramos" short-name="" type="1" units="0" email="micanimation3d" note="" std-rate="0"/>
-    <resource id="10" name="Luis Lara" short-name="" type="1" units="0" email="l3clara" note="" std-rate="0"/>
-    <resource id="11" name="Adolfo Andrade" short-name="" type="1" units="0" email="darkmasteradolphus" note="" std-rate="0"/>
-    <resource id="12" name="Esteban Yong" short-name="" type="1" units="0" email="elcorreodelchino" note="" std-rate="0"/>
+    <resource id="1" name="Marco Chac&#xF3;n" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="2" name="Mat&#xED;as Guti&#xE9;rrez" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="3" name="Andr&#xE9;s Cervilla" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource id="4" name="Romelia Mo'" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource group="1" id="5" name="Francisco Guerrero Ure&#xF1;a" short-name="" type="1" units="0" email="francisco.guerrero.cr@gmail.com" note="" std-rate="12"/>
+    <resource group="9" id="6" name="Alfonso Peralta" short-name="" type="1" units="0" email="peralta.alfonso@gmail.com" note="" std-rate="12"/>
+    <resource group="12" id="7" name="Adriana Naranjo" short-name="" type="1" units="0" email="" note="" std-rate="12"/>
+    <resource id="8" name="Jonathan Segura" short-name="" type="1" units="0" email="jsegura17@gmail.com" note="" std-rate="0"/>
+    <resource id="9" name="Marleny Tzicap" short-name="" type="1" units="0" email="martzicap" note="" std-rate="0"/>
+    <resource id="10" name="Lester Ramos" short-name="" type="1" units="0" email="micanimation3d" note="" std-rate="0"/>
+    <resource id="11" name="Luis Lara" short-name="" type="1" units="0" email="l3clara" note="" std-rate="0"/>
+    <resource id="12" name="Adolfo Andrade" short-name="" type="1" units="0" email="darkmasteradolphus" note="" std-rate="0"/>
+    <resource id="13" name="Esteban Yong" short-name="" type="1" units="0" email="elcorreodelchino" note="" std-rate="0"/>
   </resources>
   <allocations>
-    <allocation task-id="34" resource-id="4" units="100"/>
-    <allocation task-id="32" resource-id="4" units="100"/>
-    <allocation task-id="33" resource-id="4" units="100"/>
-    <allocation task-id="5" resource-id="4" units="100"/>
-    <allocation task-id="4" resource-id="4" units="100"/>
-    <allocation task-id="3" resource-id="4" units="100"/>
-    <allocation task-id="1" resource-id="4" units="100"/>
-    <allocation task-id="31" resource-id="4" units="100"/>
-    <allocation task-id="30" resource-id="4" units="100"/>
-    <allocation task-id="26" resource-id="4" units="100"/>
-    <allocation task-id="25" resource-id="4" units="100"/>
-    <allocation task-id="24" resource-id="4" units="100"/>
-    <allocation task-id="22" resource-id="4" units="100"/>
-    <allocation task-id="21" resource-id="4" units="100"/>
-    <allocation task-id="20" resource-id="4" units="100"/>
-    <allocation task-id="2" resource-id="4" units="100"/>
-    <allocation task-id="19" resource-id="4" units="100"/>
-    <allocation task-id="23" resource-id="4" units="100"/>
-    <allocation task-id="29" resource-id="4" units="100"/>
-    <allocation task-id="28" resource-id="4" units="100"/>
-    <allocation task-id="27" resource-id="4" units="100"/>
-    <allocation task-id="18" resource-id="4" units="100"/>
-    <allocation task-id="17" resource-id="4" units="100"/>
-    <allocation task-id="16" resource-id="4" units="100"/>
-    <allocation task-id="15" resource-id="4" units="100"/>
-    <allocation task-id="14" resource-id="4" units="100"/>
-    <allocation task-id="10" resource-id="4" units="100"/>
-    <allocation task-id="9" resource-id="4" units="100"/>
-    <allocation task-id="12" resource-id="4" units="100"/>
-    <allocation task-id="13" resource-id="4" units="100"/>
-    <allocation task-id="11" resource-id="4" units="100"/>
-    <allocation task-id="8" resource-id="4" units="100"/>
-    <allocation task-id="7" resource-id="4" units="100"/>
+    <allocation task-id="34" resource-id="5" units="100"/>
+    <allocation task-id="32" resource-id="5" units="100"/>
+    <allocation task-id="33" resource-id="5" units="100"/>
+    <allocation task-id="5" resource-id="5" units="100"/>
+    <allocation task-id="4" resource-id="5" units="100"/>
+    <allocation task-id="3" resource-id="5" units="100"/>
+    <allocation task-id="1" resource-id="5" units="100"/>
+    <allocation task-id="31" resource-id="5" units="100"/>
+    <allocation task-id="30" resource-id="5" units="100"/>
+    <allocation task-id="26" resource-id="5" units="100"/>
+    <allocation task-id="25" resource-id="5" units="100"/>
+    <allocation task-id="24" resource-id="5" units="100"/>
+    <allocation task-id="22" resource-id="5" units="100"/>
+    <allocation task-id="21" resource-id="5" units="100"/>
+    <allocation task-id="20" resource-id="5" units="100"/>
+    <allocation task-id="2" resource-id="5" units="100"/>
+    <allocation task-id="19" resource-id="5" units="100"/>
+    <allocation task-id="23" resource-id="5" units="100"/>
+    <allocation task-id="29" resource-id="5" units="100"/>
+    <allocation task-id="28" resource-id="5" units="100"/>
+    <allocation task-id="27" resource-id="5" units="100"/>
+    <allocation task-id="18" resource-id="5" units="100"/>
+    <allocation task-id="17" resource-id="5" units="100"/>
+    <allocation task-id="16" resource-id="5" units="100"/>
+    <allocation task-id="15" resource-id="5" units="100"/>
+    <allocation task-id="7" resource-id="11" units="100"/>
+    <allocation task-id="14" resource-id="11" units="100"/>
+    <allocation task-id="13" resource-id="11" units="100"/>
+    <allocation task-id="12" resource-id="11" units="100"/>
+    <allocation task-id="11" resource-id="11" units="100"/>
+    <allocation task-id="10" resource-id="11" units="100"/>
+    <allocation task-id="9" resource-id="11" units="100"/>
+    <allocation task-id="8" resource-id="11" units="100"/>
   </allocations>
 </project>
