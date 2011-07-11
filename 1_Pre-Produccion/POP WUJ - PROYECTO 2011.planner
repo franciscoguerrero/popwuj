@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<project name="POP WUJ 2011" company="" manager="" phase="" project-start="20101012T000000Z" mrproject-version="2" calendar="1">
+<project name="POP WUJ 2011" company="Palante Films" manager="Francisco Guerrero Ure&#xF1;a" phase="Pre-Producci&#xF3;n" project-start="20101012T000000Z" mrproject-version="2" calendar="1">
   <properties/>
   <phases>
     <phase name="Pre-Producci&#xF3;n"/>
@@ -242,21 +242,27 @@
     <group id="64" name="Producci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
     <group id="65" name="Edici&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
     <group id="66" name="Post-Producci&#xF3;n" admin-name="" admin-phone="" admin-email=""/>
+    <group id="67" name="Dise&#xF1;ador Gr&#xE1;fico" admin-name="" admin-phone="" admin-email=""/>
+    <group id="68" name="Asesor Cultural" admin-name="" admin-phone="" admin-email=""/>
+    <group id="69" name="Dise&#xF1;ador de Sonido" admin-name="" admin-phone="" admin-email=""/>
+    <group id="70" name="M&#xFA;sica" admin-name="" admin-phone="" admin-email=""/>
+    <group id="71" name="M&#xFA;sica original" admin-name="" admin-phone="" admin-email=""/>
+    <group id="72" name="Desarrollador de Software" admin-name="" admin-phone="" admin-email=""/>
   </resource-groups>
   <resources>
-    <resource id="1" name="Marco Chac&#xF3;n" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
-    <resource id="2" name="Mat&#xED;as Guti&#xE9;rrez" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
-    <resource id="3" name="Andr&#xE9;s Cervilla" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
-    <resource id="4" name="Romelia Mo'" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
-    <resource group="1" id="5" name="Francisco Guerrero Ure&#xF1;a" short-name="" type="1" units="0" email="francisco.guerrero.cr@gmail.com" note="" std-rate="12"/>
-    <resource group="9" id="6" name="Alfonso Peralta" short-name="" type="1" units="0" email="peralta.alfonso@gmail.com" note="" std-rate="12"/>
-    <resource group="12" id="7" name="Adriana Naranjo" short-name="" type="1" units="0" email="" note="" std-rate="12"/>
-    <resource id="8" name="Jonathan Segura" short-name="" type="1" units="0" email="jsegura17@gmail.com" note="" std-rate="0"/>
-    <resource id="9" name="Marleny Tzicap" short-name="" type="1" units="0" email="martzicap" note="" std-rate="0"/>
-    <resource id="10" name="Lester Ramos" short-name="" type="1" units="0" email="micanimation3d" note="" std-rate="0"/>
-    <resource id="11" name="Luis Lara" short-name="" type="1" units="0" email="l3clara" note="" std-rate="0"/>
-    <resource id="12" name="Adolfo Andrade" short-name="" type="1" units="0" email="darkmasteradolphus" note="" std-rate="0"/>
-    <resource id="13" name="Esteban Yong" short-name="" type="1" units="0" email="elcorreodelchino" note="" std-rate="0"/>
+    <resource group="24" id="1" name="Marco Chac&#xF3;n" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource group="68" id="2" name="Mat&#xED;as Guti&#xE9;rrez" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource group="69" id="3" name="Andr&#xE9;s Cervilla" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource group="68" id="4" name="Romelia Mo'" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource group="1" id="5" name="Francisco Guerrero Ure&#xF1;a" short-name="" type="1" units="0" email="francisco.guerrero.cr@gmail.com" note="" std-rate="0"/>
+    <resource group="9" id="6" name="Alfonso Peralta" short-name="" type="1" units="0" email="peralta.alfonso@gmail.com" note="" std-rate="0"/>
+    <resource group="12" id="7" name="Adriana Naranjo" short-name="" type="1" units="0" email="" note="" std-rate="0"/>
+    <resource group="72" id="8" name="Jonathan Segura" short-name="" type="1" units="0" email="jsegura17@gmail.com" note="" std-rate="0"/>
+    <resource group="68" id="9" name="Marleny Tzicap" short-name="" type="1" units="0" email="martzicap" note="" std-rate="0"/>
+    <resource group="39" id="10" name="Lester Ramos" short-name="" type="1" units="0" email="micanimation3d" note="" std-rate="0"/>
+    <resource group="38" id="11" name="Luis Lara" short-name="" type="1" units="0" email="l3clara" note="" std-rate="0"/>
+    <resource group="24" id="12" name="Adolfo Andrade" short-name="" type="1" units="0" email="darkmasteradolphus" note="" std-rate="0"/>
+    <resource group="67" id="13" name="Esteban Yong" short-name="" type="1" units="0" email="elcorreodelchino" note="" std-rate="0"/>
   </resources>
   <allocations>
     <allocation task-id="34" resource-id="5" units="100"/>
