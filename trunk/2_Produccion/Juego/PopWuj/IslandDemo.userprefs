@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Birds\Heron\Vegetation-TwoPass.shader">
+    <Files>
+      <File FileName="Assets\Scripts\UnderwaterEffects.js" Line="24" Column="50" />
+      <File FileName="Assets\Editor\UpdateTreeColors.js" Line="31" Column="5" />
+      <File FileName="Assets\Birds\Heron\Vegetation-TwoPass.shader" Line="17" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
