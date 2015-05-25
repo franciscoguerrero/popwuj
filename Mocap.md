@@ -1,0 +1,1 @@
+Prbé con varios formatos y programas, lo mejor es usar Poser para estandarizar los archivos BVH y exportarlos a Blender.

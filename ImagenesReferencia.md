@@ -1,0 +1,32 @@
+## Escenarios ##
+
+### Cavernas ###
+
+![http://photos.igougo.com/images/p112414-San_Ignacio-Cave_Entrance.jpg](http://photos.igougo.com/images/p112414-San_Ignacio-Cave_Entrance.jpg)
+
+![http://eatmypotato.com/wp-content/uploads/2008/02/cave-1.jpg](http://eatmypotato.com/wp-content/uploads/2008/02/cave-1.jpg)
+
+
+---
+
+
+### Río de Xibalbá ###
+![http://cdn.travelmuse.com/docs/artwork/activities/caving-page-china-reed-flute-cave-full.jpg](http://cdn.travelmuse.com/docs/artwork/activities/caving-page-china-reed-flute-cave-full.jpg)
+
+
+---
+
+
+## Selva Panorama ##
+![http://2.bp.blogspot.com/_zMhLSDM0Lus/SYdiIy5RNiI/AAAAAAAAEoI/wEy1LFwAnmk/s400/P1250450cop.jpg](http://2.bp.blogspot.com/_zMhLSDM0Lus/SYdiIy5RNiI/AAAAAAAAEoI/wEy1LFwAnmk/s400/P1250450cop.jpg)
+
+
+---
+
+
+### Glifos ###
+![http://i.ytimg.com/vi/m-Oxfx4AUdc/0.jpg](http://i.ytimg.com/vi/m-Oxfx4AUdc/0.jpg)
+
+### Música ###
+Me gustaría lograr algo como esto con El Canto de Xbalamkej :)
+http://www.youtube.com/watch?v=8t9tzCUZuWQ

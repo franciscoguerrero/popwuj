@@ -1,0 +1,25 @@
+# Project #
+
+  * This is an animated short film based on the Pop Wuj, the Sacred Book of the Mayas.
+  * The script was approved and translated to Quiche Maya Language by the Indigenous Council of Education.
+  * The dialogues were recorded by maya actresses and actor at Santa Cruz del Quiché, Guatemala.
+  * The music was inspired by the Mayan Biosphere and recorded at [the Temples of Tikal](http://es.wikipedia.org/wiki/Tikal).
+  * The animation is being developed in San José, Costa Rica.
+  * Watch the [Teaser Video here](http://vimeo.com/18160651).
+
+## About this site ##
+
+  * This site is a files, knowledge and tricks [repository](http://es.wikipedia.org/wiki/Repositorio) on [3D](http://es.wikipedia.org/wiki/Gr%C3%A1ficos_3D_por_computadora) and [Special Effects](http://es.wikipedia.org/wiki/Efectos_especiales).
+  * This is a documentation site for the author and for those who want to join the project.
+  * This is the technical log of the production process. For more general information about the short film please visit the [Facebook Page](http://www.facebook.com/pages/POP-WUJ-Los-Dioses-Gemelos/110390738999842) or the [Production Blog](http://popwuj2011.blogspot.com).
+
+
+---
+
+
+## Do you want to join this project? ##
+  * If you like Design, Animation or Video Production, send an email to **_francisco.guerrero.cr@gmail.com_**
+
+## Would you like to get a Special Edition DVD? ##
+
+  * You can send a little contribution to the project and once it's ready you'll get a Special Edition DVD. Please send an email to **_palantefilms@gmail.com_**

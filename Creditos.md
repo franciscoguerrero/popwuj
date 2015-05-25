@@ -1,0 +1,43 @@
+### Concepto, Guión, Dirección y Producción ###
+  * Francisco Guerrero
+
+### Producción ###
+  * Francisco Guerrero
+  * Andy Lieberman
+  * Grettel Montero
+
+### Traducción de diálogos al Quiché ###
+  * Matías Gutiérrez
+
+### Voces originales ###
+  * Marleny Tzicap
+  * Rosario Vicente
+  * Concepción Vicente
+  * Aura Marina Xicay
+  * Gricelda Lorenzo
+  * Jacinto Tunay
+  * Diego Guachiac
+  * Francisco Cabrera
+  * Domingo Camajá
+  * Miguel Ángel Tzoy
+  * Héctor Conóz
+  * Matías Gutiérrez
+
+### Música ###
+  * Álvaro Aguilar
+
+### Animación ###
+  * Francisco Guerrero
+
+### Equipo de 3D original ###
+  * Pablo Jiménez
+  * Alexander Brenes
+  * Oscar Mora
+  * Alex Jerez
+  * Juan Carlos Romero
+  * Eduardo Fonseca
+  * Alfonso Peralta
+
+### Patrocinadores ###
+  * Cinergia
+  * Save the Children Foundation
